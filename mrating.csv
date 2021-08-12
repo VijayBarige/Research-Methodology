@@ -1,0 +1,998 @@
+userId,movieId,rating,title,genres,tag,genome_score
+3,1,4,Toy Story ,fantasy,Watched,0.09725
+6,1,5,Toy Story ,fantasy,computer animation,0.01225
+8,1,4,Toy Story ,fantasy,Disney animated feature,0.01675
+10,1,4,Toy Story ,fantasy,Pixar animation,0.20675
+11,1,4.5,Toy Story ,fantasy,Pixar animation,0.01575
+12,1,4,Toy Story ,fantasy,Pixar,0.10425
+13,1,4,Toy Story ,fantasy,animation,0.064
+14,1,4.5,Toy Story ,fantasy,family,0.01625
+16,1,3,Toy Story ,fantasy,Tom Hanks,0.08275
+19,1,5,Toy Story ,fantasy,Pixar,0.02525
+22,1,3,Toy Story ,fantasy,witty,0.10725
+59,1,4.5,Toy Story ,fantasy,Pixar,0.08725
+66,1,4,Toy Story ,fantasy,adventure,0.11075
+69,1,4,Toy Story ,fantasy,animated,0.2105
+80,1,3,Toy Story ,fantasy,animation,0.34
+82,1,5,Toy Story ,fantasy,clever,0.098
+84,1,5,Toy Story ,fantasy,comedy,0.127
+90,1,3.5,Toy Story ,fantasy,computer animation,0.05075
+91,1,4,Toy Story ,fantasy,family,0.02675
+93,1,5,Toy Story ,fantasy,fantasy,0.2225
+96,1,3.5,Toy Story ,fantasy,Tom Hanks,0.17175
+97,1,4,Toy Story ,fantasy,bright,0.04125
+99,1,4,Toy Story ,fantasy,DARING RESCUES,0.084
+105,1,4,Toy Story ,fantasy,fanciful,0.01425
+107,1,4,Toy Story ,fantasy,HEROIC MISSION,0.05825
+109,1,3.5,Toy Story ,fantasy,humorous,0.007
+114,1,3,Toy Story ,fantasy,light,0.07025
+115,1,1.5,Toy Story ,fantasy,rousing,0.1
+116,1,3,Toy Story ,fantasy,TOYS COME TO LIFE,0.0175
+29,2,3,Jumanji ,Adventure,Children,0.0355
+34,2,3,Jumanji ,Adventure,Fantasy,0.0275
+54,2,3,Jumanji ,Adventure,Robin Williams,0.10625
+88,2,1,Jumanji ,Adventure,Dynamic CGI Action,0.2425
+91,2,3.5,Jumanji ,Adventure,Kirsten Dunst,0.12575
+116,2,2,Jumanji ,Adventure,Robin Williams,0.1145
+119,2,4,Jumanji ,Adventure,Robin Williams,0.0525
+120,2,1,Jumanji ,Adventure,fantasy,0.0455
+124,2,2,Jumanji ,Adventure,kid flick,0.337
+127,2,3,Jumanji ,Adventure,animals,0.268
+128,2,3,Jumanji ,Adventure,animals,0.198
+129,2,3,Jumanji ,Adventure,fantasy,0.057
+131,2,1,Jumanji ,Adventure,For children,0.05225
+132,2,3,Jumanji ,Adventure,fantasy,0.07575
+137,2,3,Jumanji ,Adventure,adapted from:book,0.0045
+142,2,4,Jumanji ,Adventure,childish,0.01825
+152,2,3,Jumanji ,Adventure,Children,0.006
+156,2,5,Jumanji ,Adventure,kid flick,0.03025
+158,2,3,Jumanji ,Adventure,time travel,0.01875
+164,2,3,Jumanji ,Adventure,Joe Johnston,0.1
+165,2,3,Jumanji ,Adventure,fantasy,0.03875
+170,2,3,Jumanji ,Adventure,Robin Williams,0.0255
+184,2,3,Jumanji ,Adventure,time travel,0.05525
+220,2,3,Jumanji ,Adventure,animals,0.41025
+232,2,3.5,Jumanji ,Adventure,board game,0.018
+235,2,3,Jumanji ,Adventure,children,0.0155
+238,2,3,Jumanji ,Adventure,fantasy,0.0065
+249,2,5,Jumanji ,Adventure,Kirsten Dunst,0.013
+251,2,4,Jumanji ,Adventure,Robin Williams,0.0055
+255,2,5,Jumanji ,Adventure,fantasy,0.0195
+259,2,5,Jumanji ,Adventure,Kirsten Dunst,0.014
+271,2,2.5,Jumanji ,Adventure,Robin Williams,0.01025
+278,2,3.5,Jumanji ,Adventure,fantasy,0.00875
+294,2,4.5,Jumanji ,Adventure,Kirsten Dunst,0.01725
+295,2,3,Jumanji ,Adventure,Robin Williams,0.028
+296,2,5,Jumanji ,Adventure,fantasy,0.03575
+298,2,3,Jumanji ,Adventure,Kirsten Dunst,0.0465
+309,2,4,Jumanji ,Adventure,Robin Williams,0.028
+315,2,4,Jumanji ,Adventure,fantasy,0.01975
+326,2,3,Jumanji ,Adventure,Kirsten Dunst,0.967
+330,2,3,Jumanji ,Adventure,Robin Williams,0.26275
+332,2,2,Jumanji ,Adventure,fantasy,0.0505
+343,2,3,Jumanji ,Adventure,Kirsten Dunst,0.0515
+347,2,2,Jumanji ,Adventure,Robin Williams,0.9585
+367,2,2,Jumanji ,Adventure,fantasy,0.591
+369,2,4,Jumanji ,Adventure,Kirsten Dunst,0.015
+370,2,4,Jumanji ,Adventure,Robin Williams,0.0065
+377,2,5,Jumanji ,Adventure,fantasy,0.03525
+388,2,1.5,Jumanji ,Adventure,Kirsten Dunst,0.004
+849,3,3,Grumpier Old Men,Adventure,sequel fever,0.12275
+850,3,2,Grumpier Old Men,Adventure,grun running,0.055
+860,3,4,Grumpier Old Men,Adventure,moldy,0.051
+869,3,3.5,Grumpier Old Men,Adventure,old,0.1045
+872,3,3.5,Grumpier Old Men,Adventure,comedinha de velhinhos engraÃƒÂ§ada,0.05025
+886,3,4,Grumpier Old Men,Adventure,Funniest Movies,0.01175
+903,3,2,Grumpier Old Men,Adventure,sequel,0.19175
+910,3,3.5,Grumpier Old Men,Adventure,Jack Lemmon,0.27425
+925,3,3,Grumpier Old Men,Adventure,Walter Matthau,0.3255
+939,3,3,Grumpier Old Men,Adventure,NO_FA_GANES,0.346
+952,3,4,Grumpier Old Men,Adventure,Howard Deutch,0.84375
+961,3,3,Grumpier Old Men,Adventure,sequel,0.04
+965,3,1,Grumpier Old Men,Adventure,comedinha de velhinhos engraÃ§ada,0.08875
+972,3,2,Grumpier Old Men,Adventure,moldy,0.03125
+982,3,2,Grumpier Old Men,Adventure,old,0.064
+983,3,3,Grumpier Old Men,Adventure,sequel,0.2725
+984,3,4,Grumpier Old Men,Adventure,comedinha de velhinhos engraÃ§ada,0.14225
+986,3,3,Grumpier Old Men,Adventure,moldy,0.062
+999,3,3,Grumpier Old Men,Adventure,old,0.0385
+1011,3,3,Grumpier Old Men,Adventure,sequel,0.13275
+1019,3,5,Grumpier Old Men,Adventure,comedinha de velhinhos engraÃ§ada,0.19125
+1043,3,3,Grumpier Old Men,Adventure,moldy,0.0375
+1064,3,3,Grumpier Old Men,Adventure,old,0.0335
+1068,3,4,Grumpier Old Men,Adventure,sequel,0.01475
+1095,3,4,Grumpier Old Men,Adventure,comedinha de velhinhos engraÃ§ada,0.0135
+1098,3,5,Grumpier Old Men,Adventure,moldy,0.16875
+1099,3,3,Grumpier Old Men,Adventure,old,0.2055
+1115,3,1,Grumpier Old Men,Adventure,sequel,0.07675
+1122,3,2.5,Grumpier Old Men,Adventure,comedinha de velhinhos engraÃ§ada,0.02275
+1131,3,4,Grumpier Old Men,Adventure,moldy,0.58825
+1160,3,4,Grumpier Old Men,Adventure,old,0.051
+4661,4,2,Waiting to Exhale ,comedy,chick flick,0.10825
+4696,4,2,Waiting to Exhale ,comedy,revenge,0.029
+4725,4,3,Waiting to Exhale ,comedy,characters,0.11125
+4748,4,3,Waiting to Exhale ,comedy,chick flick,0.012
+4864,4,3,Waiting to Exhale ,comedy,characters,0.057
+4894,4,5,Waiting to Exhale ,comedy,CLV,0.09625
+4916,4,3,Waiting to Exhale ,comedy,chick flick,0.0195
+4962,4,4,Waiting to Exhale ,comedy,revenge,0.0205
+5110,4,3,Waiting to Exhale ,comedy,characters,0.00475
+5137,4,1,Waiting to Exhale ,comedy,chick flick,0.06225
+5200,4,5,Waiting to Exhale ,comedy,characters,0.018
+5216,4,3,Waiting to Exhale ,comedy,CLV,0.005
+5239,4,3.5,Waiting to Exhale ,comedy,chick flick,0.055
+5314,4,2.5,Waiting to Exhale ,comedy,revenge,0.05575
+5375,4,3,Waiting to Exhale ,comedy,characters,0.043
+5382,4,3,Waiting to Exhale ,comedy,chick flick,0.21
+5483,4,2,Waiting to Exhale ,comedy,characters,0.0695
+5518,4,3,Waiting to Exhale ,comedy,CLV,0.15725
+5561,4,3,Waiting to Exhale ,comedy,chick flick,0.0785
+5606,4,3.5,Waiting to Exhale ,comedy,revenge,0.01725
+5640,4,5,Waiting to Exhale ,comedy,characters,0.101
+5658,4,2,Waiting to Exhale ,comedy,chick flick,0.61
+5676,4,0.5,Waiting to Exhale ,comedy,characters,0.0195
+5814,4,3,Waiting to Exhale ,comedy,CLV,0.0165
+5831,4,3,Waiting to Exhale ,comedy,chick flick,0.02225
+5837,4,3,Waiting to Exhale ,comedy,revenge,0.0145
+5838,4,2,Waiting to Exhale ,comedy,characters,0.0315
+5849,4,3,Waiting to Exhale ,comedy,chick flick,0.0405
+5881,4,5,Waiting to Exhale ,comedy,characters,0.01675
+5882,4,2,Waiting to Exhale ,comedy,CLV,0.02525
+5897,4,4,Waiting to Exhale ,comedy,chick flick,0.0375
+6024,4,4,Waiting to Exhale ,comedy,revenge,0.03875
+6136,4,4,Waiting to Exhale ,comedy,characters,0.00475
+6166,4,2,Waiting to Exhale ,comedy,chick flick,0.03225
+6276,4,1,Waiting to Exhale ,comedy,characters,0.01175
+6318,4,4,Waiting to Exhale ,comedy,CLV,0.116
+6326,4,4,Waiting to Exhale ,comedy,chick flick,0.02075
+6337,4,3,Waiting to Exhale ,comedy,revenge,0.68875
+6341,4,3,Waiting to Exhale ,comedy,characters,0.27725
+6366,4,1,Waiting to Exhale ,comedy,chick flick,0.31775
+6460,4,3,Waiting to Exhale ,comedy,characters,0.009
+6497,4,3,Waiting to Exhale ,comedy,CLV,0.031
+6551,4,4,Waiting to Exhale ,comedy,chick flick,0.0455
+6559,4,3,Waiting to Exhale ,comedy,revenge,0.11375
+6593,4,2,Waiting to Exhale ,comedy,characters,0.0895
+6739,4,1,Waiting to Exhale ,comedy,chick flick,0.012
+6792,4,1,Waiting to Exhale ,comedy,characters,0.02475
+6824,4,4,Waiting to Exhale ,comedy,CLV,0.14225
+6834,4,4,Waiting to Exhale ,comedy,chick flick,0.01225
+6952,4,3,Waiting to Exhale ,comedy,revenge,0.0185
+6964,4,1,Waiting to Exhale ,comedy,characters,0.09675
+7056,4,1,Waiting to Exhale ,comedy,chick flick,0.04675
+7101,4,3.5,Waiting to Exhale ,comedy,characters,0.026
+427,5,2,Father of the Bride Part II ,comedy,Diane Keaton,0.0045
+430,5,3,Father of the Bride Part II ,comedy,family,0.1585
+435,5,3,Father of the Bride Part II ,comedy,sequel,0.10475
+453,5,5,Father of the Bride Part II ,comedy,Steve Martin,0.06525
+457,5,1,Father of the Bride Part II ,comedy,wedding,0.14575
+465,5,5,Father of the Bride Part II ,comedy,sequel fever,0.06675
+471,5,3,Father of the Bride Part II ,comedy,Fantasy,0.031
+479,5,3,Father of the Bride Part II ,comedy,childhood classics,0.022
+483,5,4,Father of the Bride Part II ,comedy,it thought it was funny but it wasn't,0.034
+491,5,3,Father of the Bride Part II ,comedy,watched under duress,0.02625
+506,5,3,Father of the Bride Part II ,comedy,worst movies ever,0.065
+509,5,5,Father of the Bride Part II ,comedy,steve martin,0.1035
+524,5,4,Father of the Bride Part II ,comedy,steve martin,0.233
+545,5,3,Father of the Bride Part II ,comedy,Comedy,0.1475
+547,5,3,Father of the Bride Part II ,comedy,Touching,0.0545
+572,5,3.5,Father of the Bride Part II ,comedy,pregnancy,0.0095
+578,5,5,Father of the Bride Part II ,comedy,remake,0.404
+579,5,2,Father of the Bride Part II ,comedy,steve martin,0.01675
+581,5,3,Father of the Bride Part II ,comedy,CLV,0.0265
+586,5,3,Father of the Bride Part II ,comedy,Diane Keaton,0.0235
+591,5,5,Father of the Bride Part II ,comedy,family,0.0095
+593,5,4,Father of the Bride Part II ,comedy,sequel,0.00425
+601,5,5,Father of the Bride Part II ,comedy,Steve Martin,0.01225
+612,5,3,Father of the Bride Part II ,comedy,wedding,0.07075
+619,5,3.5,Father of the Bride Part II ,comedy,sequel fever,0.12225
+624,5,3,Father of the Bride Part II ,comedy,Fantasy,0.10575
+627,5,4,Father of the Bride Part II ,comedy,childhood classics,0.051
+640,5,3,Father of the Bride Part II ,comedy,it thought it was funny but it wasn't,0.07875
+669,5,3,Father of the Bride Part II ,comedy,watched under duress,0.011
+679,5,3,Father of the Bride Part II ,comedy,worst movies ever,0.13475
+686,5,2,Father of the Bride Part II ,comedy,steve martin,0.0085
+694,5,2.5,Father of the Bride Part II ,comedy,steve martin,0.09875
+697,5,3.5,Father of the Bride Part II ,comedy,Comedy,0.112
+699,5,2,Father of the Bride Part II ,comedy,Touching,0.0255
+725,5,3,Father of the Bride Part II ,comedy,pregnancy,0.02225
+424,6,5,Heat,Action,Natalie Portman,0.01125
+427,6,5,Heat,Action,Robert De Niro,0.02025
+435,6,4,Heat,Action,Val Kilmer,0.04975
+461,6,4,Heat,Action,ending lame,0.25475
+465,6,4,Heat,Action,Al Pacino,0.665
+471,6,4,Heat,Action,bank robbery,0.0925
+488,6,4,Heat,Action,crime,0.31525
+1869,7,3,sabrina,Action,Harrison Ford,0.04425
+1876,7,2,sabrina,Action,Paris,0.02975
+1880,7,3,sabrina,Action,remake,0.0195
+1891,7,4,sabrina,Action,ugly duckling,0.02375
+1894,7,5,sabrina,Action,chick flick,0.01825
+1904,7,3,sabrina,Action,remake,0.0235
+1918,7,1,sabrina,Action,Drama,0.23525
+1931,7,4,sabrina,Action,finding yourself,0.12825
+1951,7,3.5,sabrina,Action,great cast,0.028
+1955,7,3,sabrina,Action,Greg Kinnear,0.0775
+1966,7,4,sabrina,Action,Julia Ormond,0.06875
+1974,7,3,sabrina,Action,love story,0.2615
+1983,7,3,sabrina,Action,remake,0.04175
+2013,7,1,sabrina,Action,romance,0.13275
+2043,7,4,sabrina,Action,Romance,0.10875
+2058,7,3,sabrina,Action,chick flick,0.065
+2071,7,2.5,sabrina,Action,remake,0.0095
+2100,7,3,sabrina,Action,remake,0.0245
+2119,7,3,sabrina,Action,NO_FA_GANES,0.02625
+2127,7,3,sabrina,Action,based on a play,0.089
+2147,8,3,Tom and Huck,Romance,chick flick,0.01025
+2162,8,5,Tom and Huck,Romance,Harrison Ford,0.02125
+2281,8,1,Tom and Huck,Romance,Julia Ormond,0.719
+2493,8,3,Tom and Huck,Romance,Nancy Marchand,0.38575
+2583,8,4,Tom and Huck,Romance,remake,0.1955
+2657,8,3,Tom and Huck,Romance,based on a play,0.31175
+2682,8,5,Tom and Huck,Romance,seen,0.063
+2857,8,4,Tom and Huck,Romance,Peter Hewitt,0.16725
+2862,8,3,Tom and Huck,Romance,based on a book,0.0475
+2864,8,3,Tom and Huck,Romance,Mark Twain,0.05925
+3202,8,3,Tom and Huck,Romance,seen,0.2315
+3210,8,3.5,Tom and Huck,Romance,Peter Hewitt,0.0895
+3227,8,4,Tom and Huck,Romance,based on a book,0.4375
+3236,8,2,Tom and Huck,Romance,Mark Twain,0.073
+3259,8,4,Tom and Huck,Romance,seen,0.0265
+3397,8,0.5,Tom and Huck,Romance,Peter Hewitt,0.06325
+3515,8,3,Tom and Huck,Romance,based on a book,0.03925
+3532,8,1,Tom and Huck,Romance,Mark Twain,0.046
+3664,8,3.5,Tom and Huck,Romance,seen,0.08425
+3677,8,3,Tom and Huck,Romance,Peter Hewitt,0.3555
+3680,8,5,Tom and Huck,Romance,based on a book,0.048
+3692,8,4,Tom and Huck,Romance,Mark Twain,0.38025
+3746,8,3,Tom and Huck,Romance,seen,0.0415
+3872,8,4,Tom and Huck,Romance,Peter Hewitt,0.17575
+3912,8,3,Tom and Huck,Romance,based on a book,0.006
+4072,8,3,Tom and Huck,Romance,Mark Twain,0.3185
+4217,8,2.5,Tom and Huck,Romance,seen,0.0715
+4243,8,4,Tom and Huck,Romance,Peter Hewitt,0.14175
+4428,8,3,Tom and Huck,Romance,based on a book,0.09225
+4432,8,5,Tom and Huck,Romance,Mark Twain,0.02825
+4457,8,5,Tom and Huck,Romance,seen,0.03775
+4480,8,5,Tom and Huck,Romance,Peter Hewitt,0.15925
+4494,8,4,Tom and Huck,Romance,based on a book,0.02475
+4540,8,4,Tom and Huck,Romance,Mark Twain,0.028
+4606,8,3,Tom and Huck,Romance,seen,0.147
+4804,8,4,Tom and Huck,Romance,Peter Hewitt,0.12125
+4937,8,4,Tom and Huck,Romance,based on a book,0.47075
+4951,8,3,Tom and Huck,Romance,Mark Twain,0.561
+4976,8,3,Tom and Huck,Romance,seen,0.06225
+4991,8,4,Tom and Huck,Romance,Peter Hewitt,0.055
+5281,8,3,Tom and Huck,Romance,based on a book,0.07525
+5289,8,3,Tom and Huck,Romance,Mark Twain,0.01425
+5591,8,5,Tom and Huck,Romance,seen,0.041
+5742,8,3,Tom and Huck,Romance,Peter Hewitt,0.05725
+5814,8,3,Tom and Huck,Romance,based on a book,0.01275
+5881,8,3,Tom and Huck,Romance,Mark Twain,0.00975
+6059,8,4,Tom and Huck,Romance,seen,0.02075
+6241,8,4,Tom and Huck,Romance,Peter Hewitt,0.22175
+6462,8,4,Tom and Huck,Romance,based on a book,0.157
+6606,8,2.5,Tom and Huck,Romance,Mark Twain,0.0525
+6719,8,1,Tom and Huck,Romance,seen,0.04625
+6744,8,5,Tom and Huck,Romance,Peter Hewitt,0.177
+6878,8,5,Tom and Huck,Romance,based on a book,0.06175
+6983,8,3,Tom and Huck,Romance,Mark Twain,0.3135
+29,9,4,Sudden Death,Action,action,0.03775
+69,9,3,Sudden Death,Action,jean-claude van damme,0.02075
+116,9,1.5,Sudden Death,Action,Peter Hyams,0.09425
+127,9,5,Sudden Death,Action,Jean-Claude Van Damme,0.2775
+130,9,3,Sudden Death,Action,Can't remember,0.04325
+156,9,3,Sudden Death,Action,Jean-Claude Van Damme,0.05825
+236,9,4,Sudden Death,Action,Jean-Claude Van Damme,0.04525
+242,9,3,Sudden Death,Action,Peter Hyams,0.21375
+303,9,4,Sudden Death,Action,CLV,0.0375
+330,9,3,Sudden Death,Action,,0.03675
+334,9,4,Sudden Death,Action,,0.02675
+516,9,1,Sudden Death,Action,,0.0145
+536,9,3,Sudden Death,Action,,0.12025
+547,9,3,Sudden Death,Action,,0.50525
+554,9,3,Sudden Death,Action,,0.01925
+571,9,3,Sudden Death,Action,,0.08925
+579,9,1,Sudden Death,Action,,0.00975
+686,9,4,Sudden Death,Action,,0.046
+768,9,3,Sudden Death,Action,,0.02225
+781,9,1,Sudden Death,Action,,0.09075
+814,9,3,Sudden Death,Action,,0.07725
+816,9,4,Sudden Death,Action,,0.01825
+818,9,3,Sudden Death,Action,,0.089
+242,10,4,GoldenEye,Action,assassin,0.0365
+247,10,3,GoldenEye,Action,killer as protagonist,0.046
+249,10,3,GoldenEye,Action,murder,0.03075
+256,10,4,GoldenEye,Action,7,0.01425
+259,10,2,GoldenEye,Action,Bond,0.06575
+261,10,3,GoldenEye,Action,james bond,0.04625
+271,10,3.5,GoldenEye,Action,7,0.157
+274,10,3,GoldenEye,Action,tank chase scene,0.12025
+275,10,4,GoldenEye,Action,7,0.2285
+278,10,2.5,GoldenEye,Action,Bond,0.00575
+283,10,3,GoldenEye,Action,espionage,0.056
+286,10,3,GoldenEye,Action,good dialogue,0.132
+287,10,4,GoldenEye,Action,espionage,0.186
+292,10,3,GoldenEye,Action,James Bond,0.12075
+294,10,3.5,GoldenEye,Action,bond,0.04875
+298,10,4,GoldenEye,Action,Bob*ola,0.129
+311,10,3,GoldenEye,Action,MTSKAF,0.058
+312,10,4,GoldenEye,Action,Pierce Brosnan,0.12875
+316,10,2.5,GoldenEye,Action,James Bond,0.0395
+327,10,3,GoldenEye,Action,seen more than once,0.11175
+329,10,4,GoldenEye,Action,James Bond,0.0935
+330,10,3,GoldenEye,Action,Pierce Brosnan,0.01175
+334,10,2,GoldenEye,Action,James Bond,0.162
+347,10,2,GoldenEye,Action,action,0.0795
+359,10,4,GoldenEye,Action,adventure,0.0785
+367,10,3.5,GoldenEye,Action,James Bond,0.15575
+368,10,3,GoldenEye,Action,espionage,0.033
+374,10,5,GoldenEye,Action,Bond,0.3245
+378,10,4,GoldenEye,Action,Bond,0.15575
+381,10,4,GoldenEye,Action,Bond,0.10125
+388,10,2,GoldenEye,Action,seen more than once,0.03175
+390,10,5,GoldenEye,Action,it's a good movie but the end of 007 is always the same,0.02875
+393,10,4,GoldenEye,Action,Sean Bean dies,0.0785
+394,10,3,GoldenEye,Action,7,0.15625
+401,10,5,GoldenEye,Action,James Bond,0.068
+402,10,3,GoldenEye,Action,Pierce Brosnan,0.05675
+414,10,2,GoldenEye,Action,7,0.00875
+421,10,3,GoldenEye,Action,007 (series),0.07875
+422,10,3,GoldenEye,Action,action,0.0445
+424,10,4.5,GoldenEye,Action,espionage,0.07425
+427,10,2,GoldenEye,Action,gadgets,0.01275
+430,10,3,GoldenEye,Action,James Bond,0.10575
+435,10,3,GoldenEye,Action,Judi Dench,0.0105
+436,10,4.5,GoldenEye,Action,Pierce Brosnan,0.058
+444,10,3,GoldenEye,Action,secret service,0.068
+413,11,2.5,American President,comedy,spies,0.02275
+414,11,4,American President,comedy,violence,0.1925
+416,11,5,American President,comedy,7,0.16625
+417,11,3,American President,comedy,james bond,0.088
+421,11,4.5,American President,comedy,Caribbean,0.012
+424,11,3.5,American President,comedy,espionage,0.5105
+427,11,2,American President,comedy,franchise,0.018
+435,11,4,American President,comedy,James Bond,0.03675
+445,11,3,American President,comedy,Latin America,0.15325
+452,11,4,American President,comedy,Puerto Rico,0.042
+453,11,4,American President,comedy,,0.0835
+461,11,4,American President,comedy,action,0.0085
+463,11,4,American President,comedy,James Bond,0.1805
+465,11,5,American President,comedy,Pierce Brosnan,0.06575
+472,11,5,American President,comedy,,0.01925
+475,11,3,American President,comedy,,0.053
+476,11,4,American President,comedy,White House,0.10725
+479,11,2,American President,comedy,girlie movie,0.04225
+486,11,4.5,American President,comedy,clever dialogue,0.143
+491,11,4,American President,comedy,politics,0.6125
+509,11,5,American President,comedy,Amazing kung fu,0.685
+515,11,3,American President,comedy,decent flick,0.10075
+517,11,4,American President,comedy,Annette Bening,0.021
+546,11,3.5,American President,comedy,ethics,0.1785
+556,11,3,American President,comedy,great cast,0.292
+562,11,4.5,American President,comedy,great performances,0.21975
+572,11,3.5,American President,comedy,great story,0.1775
+586,11,2.5,American President,comedy,Michael Douglas,0.27175
+3971,12,2.5,Dracula,comedy,morals,0.357
+4044,12,5,Dracula,comedy,Drama,0.05325
+4047,12,2,Dracula,comedy,Romance,0.02525
+4066,12,1.5,Dracula,comedy,cute,0.058
+4107,12,5,Dracula,comedy,seen more than once,0.031
+4192,12,2,Dracula,comedy,,0.22575
+4228,12,3,Dracula,comedy,screenwriter:Aaron Sorkin,0.08575
+4275,12,3,Dracula,comedy,NO_FA_GANES,0.30075
+4285,12,2,Dracula,comedy,Rob Reiner,0.09975
+4316,12,4,Dracula,comedy,Aaron Sorkin,0.106
+4332,12,2.5,Dracula,comedy,clever dialogue,0.39875
+4358,12,1,Dracula,comedy,cute,0.0765
+4501,12,2,Dracula,comedy,girlie movie,0.064
+4548,12,2,Dracula,comedy,great performances,0.0265
+4585,12,2,Dracula,comedy,Martin Sheen,0.16975
+4605,12,4,Dracula,comedy,Michael Douglas,0.014
+4615,12,2.5,Dracula,comedy,politics,0.0155
+4630,12,5,Dracula,comedy,Rob Reiner,0.0465
+4642,12,3,Dracula,comedy,Romance,0.05
+4645,12,0.5,Dracula,comedy,,0.0245
+4696,12,2,Dracula,comedy,,0.1085
+4776,12,3,Dracula,comedy,,0.13
+4781,12,3.5,Dracula,comedy,,0.01275
+4823,12,1,Dracula,comedy,,0.25325
+4879,12,2.5,Dracula,comedy,,0.021
+4893,12,4,Dracula,comedy,,0.04025
+4937,12,0.5,Dracula,comedy,,0.01075
+4959,12,4,Dracula,comedy,,0.011
+5046,12,2,Dracula,comedy,,0.024
+5091,12,3,Dracula,comedy,,0.32175
+5155,12,3.5,Dracula,comedy,,0.4545
+3253,13,4,Balto,comedy,,0.1715
+3318,13,3,Balto,comedy,,0.1325
+3508,13,2.5,Balto,comedy,,0.041
+3513,13,3,Balto,comedy,,0.01175
+3532,13,3,Balto,comedy,,0.01325
+3546,13,5,Balto,comedy,,0.21275
+3660,13,3,Balto,comedy,,0.0195
+3743,13,3,Balto,comedy,,0.02525
+3791,13,2,Balto,comedy,,0.04325
+3805,13,3,Balto,comedy,,0.011
+3927,13,4,Balto,comedy,dogsled,0.1825
+4039,13,3,Balto,comedy,Ei muista,0.08925
+4072,13,5,Balto,comedy,wolves,0.19725
+4166,13,3,Balto,comedy,biopic,0.02975
+4217,13,0.5,Balto,comedy,character based on real person:Richard Nixon,0.02025
+4350,13,3,Balto,comedy,US President,0.16325
+4389,13,3.5,Balto,comedy,Oliver Stone,0.16
+4400,13,3,Balto,comedy,political drama,0.0065
+4432,13,3,Balto,comedy,based on a true story,0.00925
+4666,13,4,Balto,comedy,biographical,0.017
+4785,13,3,Balto,comedy,Oliver Stone,0.0815
+4865,13,4,Balto,comedy,politics,0.1405
+4967,13,3,Balto,comedy,Oliver Stone,0.0695
+5030,13,4,Balto,comedy,president,0.121
+5091,13,3,Balto,comedy,Anthony Hopkins,0.0545
+5189,13,3,Balto,comedy,Drama,0.00725
+5192,13,4,Balto,comedy,,0.0145
+5231,13,4,Balto,comedy,,0.02175
+5314,13,4.5,Balto,comedy,,0.032
+5375,13,3,Balto,comedy,,0.15675
+5379,13,4,Balto,comedy,,0.93475
+5481,13,3,Balto,comedy,,0.18225
+5504,13,3,Balto,comedy,,0.672
+5546,13,4.5,Balto,comedy,,0.06525
+5574,13,4.5,Balto,comedy,,0.0705
+5695,13,5,Balto,comedy,,0.08925
+5814,13,3,Balto,comedy,,0.0135
+6266,13,4,Balto,comedy,,0.03
+6387,13,2,Balto,comedy,,0.0995
+6476,13,4,Balto,comedy,,0.0745
+6606,13,2.5,Balto,comedy,,0.12875
+6719,13,4,Balto,comedy,,0.02525
+6739,13,1,Balto,comedy,,0.06375
+6983,13,3,Balto,comedy,,0.01375
+15,14,2,Nixon,Drama,,0.02
+19,14,4,Nixon,Drama,based on a true story,0.088
+32,14,3,Nixon,Drama,cinematographer:Robert Richardson,0.1785
+48,14,3,Nixon,Drama,biographical,0.07725
+100,14,3,Nixon,Drama,own,0.20425
+104,14,1,Nixon,Drama,corruption,0.071
+108,14,5,Nixon,Drama,biographical,0.588
+114,14,4,Nixon,Drama,own,0.3165
+126,14,4,Nixon,Drama,corruption,0.0695
+134,14,2,Nixon,Drama,biographical,0.0725
+158,14,5,Nixon,Drama,own,0.00875
+184,14,5,Nixon,Drama,corruption,0.00525
+192,14,3,Nixon,Drama,biographical,0.05825
+199,14,3,Nixon,Drama,own,0.06
+208,14,4,Nixon,Drama,corruption,0.0545
+263,14,5,Nixon,Drama,biographical,0.04875
+269,14,5,Nixon,Drama,own,0.04175
+295,14,3,Nixon,Drama,corruption,0.18225
+325,14,3,Nixon,Drama,biographical,0.04875
+330,14,3,Nixon,Drama,own,0.058
+336,14,3,Nixon,Drama,corruption,0.02975
+371,14,3.5,Nixon,Drama,,0.05125
+389,14,3,Nixon,Drama,,0.09575
+471,14,3,Nixon,Drama,,0.0605
+609,14,4.5,Nixon,Drama,,0.09
+624,14,3,Nixon,Drama,,0.20375
+627,14,3,Nixon,Drama,,0.63175
+632,14,1,Nixon,Drama,,0.126
+684,14,3,Nixon,Drama,,0.0135
+688,14,3,Nixon,Drama,,0.05625
+717,14,2,Nixon,Drama,,0.126
+741,14,4.5,Nixon,Drama,,0.06675
+750,14,4,Nixon,Drama,,0.081
+775,14,4,Nixon,Drama,,0.30025
+781,14,5,Nixon,Drama,,0.44075
+802,14,3,Nixon,Drama,,0.14525
+812,14,4,Nixon,Drama,,0.24275
+818,14,4,Nixon,Drama,,0.00175
+825,14,4,Nixon,Drama,,0.139
+850,14,3,Nixon,Drama,,0.22625
+886,14,4,Nixon,Drama,,0.03525
+903,14,3,Nixon,Drama,,0.022
+936,14,3,Nixon,Drama,,0.15775
+959,14,3,Nixon,Drama,,0.14825
+982,14,3,Nixon,Drama,,0.0045
+1045,14,3,Nixon,Drama,,0.1535
+1115,14,3,Nixon,Drama,,0.093
+1144,14,3,Nixon,Drama,,0.359
+1154,14,5,Nixon,Drama,,0.18875
+1167,14,4,Nixon,Drama,,0.2345
+1219,14,3,Nixon,Drama,,0.03075
+1243,14,4,Nixon,Drama,,0.029
+1247,14,3,Nixon,Drama,,0.1275
+1267,14,4,Nixon,Drama,,0.03175
+1296,14,4,Nixon,Drama,,0.03675
+1308,14,4,Nixon,Drama,,0.1205
+1309,14,3,Nixon,Drama,,0.03425
+1312,14,3,Nixon,Drama,,0.03475
+1350,14,4,Nixon,Drama,,0.0635
+2866,15,1,casino,crime,,0.10275
+2868,15,2,casino,crime,,0.17275
+2943,15,3,casino,crime,,0.4495
+2972,15,3,casino,crime,,0.0335
+3011,15,4,casino,crime,,0.439
+3053,15,3,casino,crime,,0.05725
+3058,15,2,casino,crime,,0.0175
+3094,15,3,casino,crime,,0.05925
+3102,15,1,casino,crime,,0.0725
+3174,15,3,casino,crime,,0.0915
+3192,15,3,casino,crime,,0.10225
+3227,15,5,casino,crime,,0.18175
+3249,15,2,casino,crime,,0.337
+3284,15,0.5,casino,crime,,0.07725
+3291,15,4,casino,crime,,0.01925
+3316,15,3,casino,crime,,0.014
+3338,15,3,casino,crime,,0.47225
+3663,15,3,casino,crime,,0.02
+3737,15,2,casino,crime,Frank Langella,0.03
+3743,15,2,casino,crime,Geena Davis,0.185
+3745,15,3,casino,crime,humor,0.1515
+4585,15,3,casino,crime,Pirate,0.04825
+4606,15,3,casino,crime,pirates,0.065
+4642,15,5,casino,crime,sword fight,0.093
+4696,15,3,casino,crime,treasure,0.02125
+4759,15,0.5,casino,crime,treasure hunt,0.07225
+4765,15,3,casino,crime,treasure,0.146
+4787,15,3,casino,crime,pirates,0.1505
+4865,15,5,casino,crime,sexuality,0.027
+4948,15,3,casino,crime,treasure,0.347
+4968,15,2.5,casino,crime,pirates,0.29875
+4989,15,3,casino,crime,big budget,0.013
+5005,15,4.5,casino,crime,treasure,0.05825
+5036,15,0.5,casino,crime,treasure,0.2225
+5046,15,2,casino,crime,treasure,0.07275
+5121,15,3,casino,crime,CLV,0.016
+5200,15,5,casino,crime,Pirate,0.00825
+5201,15,3,casino,crime,pirates,0.03975
+5225,15,3,casino,crime,Pirate,0.01025
+5314,15,3.5,casino,crime,pirates,0.4625
+5410,15,2.5,casino,crime,treasure,0.48175
+5416,15,2,casino,crime,de niro in pink,0.0125
+5481,15,4,casino,crime,Joe Pesci,0.02025
+5483,15,4,casino,crime,Martin Scorsese,0.00775
+5504,15,1.5,casino,crime,Robert De Niro,0.015
+5513,15,3,casino,crime,Sharon Stone,0.00725
+5518,15,2,casino,crime,character development,0.0095
+5576,15,1,casino,crime,violent,0.02125
+5591,15,4,casino,crime,,0.1275
+5604,15,1,casino,crime,,0.0335
+5706,15,3,casino,crime,,0.0275
+5725,15,2.5,casino,crime,,0.19375
+5729,15,2,casino,crime,,0.135
+5814,15,1,casino,crime,,0.01
+5843,15,3,casino,crime,,0.04125
+5878,15,2,casino,crime,,0.005
+5881,15,3,casino,crime,,0.23225
+5921,15,3,casino,crime,,0.04525
+5922,15,3,casino,crime,,0.0305
+5972,15,1,casino,crime,,0.01725
+6000,15,3.5,casino,crime,,0.01625
+6021,15,4,casino,crime,,0.00625
+6068,15,1,casino,crime,Frank Langella,0.0495
+6093,15,1,casino,crime,Geena Davis,0.00875
+6266,15,4,casino,crime,humor,0.01575
+6354,15,3,casino,crime,Pirate,0.117
+6372,15,3.5,casino,crime,pirates,0.0595
+6417,15,5,casino,crime,sword fight,0.1205
+6419,15,2,casino,crime,treasure,0.02325
+6462,15,3,casino,crime,treasure hunt,0.01675
+6602,15,1,casino,crime,treasure,0.06925
+6630,15,3,casino,crime,pirates,0.0795
+6676,15,2,casino,crime,sexuality,0.03575
+6719,15,4,casino,crime,treasure,0.008
+6722,15,1.5,casino,crime,pirates,0.02925
+6773,15,2,casino,crime,big budget,0.0495
+6839,15,2,casino,crime,treasure,0.1335
+7022,15,2.5,casino,crime,treasure,0.0265
+7,16,3,sense and sensibility,Drama,treasure,0.03875
+20,16,4,sense and sensibility,Drama,,0.02925
+21,16,5,sense and sensibility,Drama,,0.865
+22,16,5,sense and sensibility,Drama,,0.0525
+24,16,5,sense and sensibility,Drama,narrated,0.0335
+29,16,4,sense and sensibility,Drama,Martin Scorsese,0.018
+32,16,3,sense and sensibility,Drama,complex,0.01925
+54,16,2,sense and sensibility,Drama,gangsters,0.024
+56,16,3,sense and sensibility,Drama,great performances,0.01575
+58,16,4,sense and sensibility,Drama,imdb top 250,0.0865
+69,16,3,sense and sensibility,Drama,las vegas,0.041
+70,16,5,sense and sensibility,Drama,mafia,0.0235
+82,16,4.5,sense and sensibility,Drama,Martin Scorsese,0.006
+88,16,4,sense and sensibility,Drama,narrated,0.10425
+106,16,3.5,sense and sensibility,Drama,non-fiction,0.02475
+108,16,3,sense and sensibility,Drama,organized crime,0.0205
+116,16,3.5,sense and sensibility,Drama,Robert De Niro,0.139
+124,16,4,sense and sensibility,Drama,indulgent,0.0465
+130,16,4,sense and sensibility,Drama,muddled motivations,0.26125
+133,16,4.5,sense and sensibility,Drama,slow,0.02975
+134,16,5,sense and sensibility,Drama,stylish,0.03625
+140,16,4,sense and sensibility,Drama,gangster,0.017
+142,16,4,sense and sensibility,Drama,gangsters,0.055
+152,16,4.5,sense and sensibility,Drama,mob,0.02625
+156,16,4,sense and sensibility,Drama,organized crime,0.27775
+157,16,4,sense and sensibility,Drama,violent,0.02475
+158,16,4,sense and sensibility,Drama,mafia,0.045
+164,16,4,sense and sensibility,Drama,non-fiction,0.11025
+184,16,3,sense and sensibility,Drama,NO_FA_GANES,0.192
+208,16,1.5,sense and sensibility,Drama,Martin Scorsese,0.03025
+211,16,3,sense and sensibility,Drama,cinematographer:Robert Richardson,0.182
+218,16,4.5,sense and sensibility,Drama,las vegas,0.01875
+220,16,5,sense and sensibility,Drama,Martin Scorsese,0.04225
+229,16,4,sense and sensibility,Drama,mob,0.09675
+242,16,3,sense and sensibility,Drama,corruption,0.15075
+247,16,4,sense and sensibility,Drama,gamble,0.32375
+283,16,4,sense and sensibility,Drama,mafia,0.535
+284,16,3.5,sense and sensibility,Drama,soundtrack,0.47425
+294,16,4,sense and sensibility,Drama,violence,0.0135
+295,16,3,sense and sensibility,Drama,gangsters,0.01525
+298,16,4,sense and sensibility,Drama,imdb top 250,0.033
+313,16,3,sense and sensibility,Drama,las vegas,0.01275
+317,16,4,sense and sensibility,Drama,mafia,0.0185
+330,16,3,sense and sensibility,Drama,Martin Scorsese,0.0295
+332,16,3,sense and sensibility,Drama,narrated,0.05525
+333,16,1,sense and sensibility,Drama,Robert De Niro,0.0385
+334,16,4,sense and sensibility,Drama,Sharon Stone,0.1455
+335,16,4,sense and sensibility,Drama,casino,0.025
+337,16,4.5,sense and sensibility,Drama,Martin Scorsese,0.01325
+339,16,5,sense and sensibility,Drama,narrated,0.00425
+347,16,3,sense and sensibility,Drama,Robert De Niro,0.1775
+6030,16,5,sense and sensibility,Drama,violent,0.02925
+6031,16,3,sense and sensibility,Drama,corruption,0.056
+6035,16,3,sense and sensibility,Drama,great performances,0.007
+6038,16,3,sense and sensibility,Drama,mafia,0.01425
+6069,16,4,sense and sensibility,Drama,nudity,0.0915
+6074,16,3.5,sense and sensibility,Drama,Divx1,0.03725
+6077,16,4,sense and sensibility,Drama,Eric's Dvds,0.2065
+6081,16,1,sense and sensibility,Drama,based on a book,0.018
+6093,16,3,sense and sensibility,Drama,gangsters,0.01975
+6099,16,4,sense and sensibility,Drama,imdb top 250,0.30825
+6102,16,4,sense and sensibility,Drama,Las Vegas,0.02175
+6108,16,5,sense and sensibility,Drama,Mafia,0.11
+6111,16,3.5,sense and sensibility,Drama,nudity (rear),0.06725
+6113,16,5,sense and sensibility,Drama,Martin Scorsese,0.01825
+6114,16,3.5,sense and sensibility,Drama,Robert De Niro,0.0085
+6129,16,3,sense and sensibility,Drama,Martin Scorsese,0.0785
+6141,16,4.5,sense and sensibility,Drama,mafia,0.7575
+6150,16,2.5,sense and sensibility,Drama,Martin Scorsese,0.81925
+6160,16,4,sense and sensibility,Drama,on dvr,0.092
+6166,16,4,sense and sensibility,Drama,Mafia,0.052
+6168,16,5,sense and sensibility,Drama,Martin Scorsese,0.09025
+6169,16,4,sense and sensibility,Drama,mafia,0.123
+6188,16,3,sense and sensibility,Drama,Martin Scorsese,0.02225
+6190,16,3.5,sense and sensibility,Drama,narrated,0.97175
+6222,16,3,sense and sensibility,Drama,Robert De Niro,0.963
+6232,16,4,sense and sensibility,Drama,Robert DeNiro,0.02375
+6252,16,4.5,sense and sensibility,Drama,Sharon Stone,0.03925
+6263,16,3,sense and sensibility,Drama,violent,0.02575
+6268,16,3.5,sense and sensibility,Drama,watch,0.022
+6281,16,4.5,sense and sensibility,Drama,based on a book,0.075
+6296,16,2.5,sense and sensibility,Drama,violent,0.23025
+6298,16,4,sense and sensibility,Drama,based on a book,0.3015
+6314,16,3.5,sense and sensibility,Drama,cannibalism,0.116
+6317,16,4,sense and sensibility,Drama,corruption,0.05725
+6320,16,5,sense and sensibility,Drama,imdb top 250,0.20175
+6329,16,4,sense and sensibility,Drama,Nudity (Topless - Brief),0.0695
+6333,16,3,sense and sensibility,Drama,20060407,0.03725
+6341,16,5,sense and sensibility,Drama,robert de niro,0.02325
+6349,16,4.5,sense and sensibility,Drama,scorcese,0.01375
+6351,16,4,sense and sensibility,Drama,complex,0.02875
+6359,16,4,sense and sensibility,Drama,Goodfellas II,0.03725
+6361,16,3,sense and sensibility,Drama,mafia,0.0675
+6362,16,4,sense and sensibility,Drama,Robert Deniro,0.115
+6364,16,4,sense and sensibility,Drama,Martin Scorsese,0.04275
+6366,16,5,sense and sensibility,Drama,narrated,0.02175
+6368,16,3,sense and sensibility,Drama,robert de niro,0.1135
+6369,16,3,sense and sensibility,Drama,etaege,0.05275
+6373,16,3,sense and sensibility,Drama,cult film,0.0035
+6383,16,4,sense and sensibility,Drama,mafia,0.04625
+6387,16,4.5,sense and sensibility,Drama,robert de niro,0.01475
+6405,16,5,sense and sensibility,Drama,scorcese,0.045
+6447,16,5,sense and sensibility,Drama,cult film,0.043
+6450,16,4,sense and sensibility,Drama,imdb top 250,0.03225
+6453,16,4,sense and sensibility,Drama,mafia,0.0275
+6459,16,3.5,sense and sensibility,Drama,mob,0.0065
+6467,16,5,sense and sensibility,Drama,narrated,0.15925
+6477,16,2,sense and sensibility,Drama,Robert De Niro,0.02125
+6479,16,3.5,sense and sensibility,Drama,casino,0.045
+6484,16,5,sense and sensibility,Drama,CLV,0.15225
+6485,16,4,sense and sensibility,Drama,DeNiro,0.0115
+6486,16,5,sense and sensibility,Drama,gangster,0.05725
+6506,16,5,sense and sensibility,Drama,Pesci,0.0565
+6514,16,4.5,sense and sensibility,Drama,Vegas,0.2155
+6540,16,3,sense and sensibility,Drama,erlend's DVDs,0.20275
+6553,16,5,sense and sensibility,Drama,Joe Pesci,0.02875
+6560,16,4,sense and sensibility,Drama,las vegas,0.10175
+6565,16,5,sense and sensibility,Drama,mafia,0.058
+6569,16,4,sense and sensibility,Drama,Martin Scorsese,0.0865
+6574,16,4,sense and sensibility,Drama,Robert De Niro,0.023
+6578,16,3,sense and sensibility,Drama,casino,0.08575
+6594,16,4.5,sense and sensibility,Drama,memasa's movies,0.0145
+6604,16,2.5,sense and sensibility,Drama,Bibliothek,0.34975
+6618,16,5,sense and sensibility,Drama,mafia,0.13825
+6624,16,3.5,sense and sensibility,Drama,organized crime,0.12025
+6625,16,3,sense and sensibility,Drama,Tumey's DVDs,0.119
+6630,16,4,sense and sensibility,Drama,Martin Scorsese,0.104
+6636,16,4.5,sense and sensibility,Drama,adapted from:book,0.017
+6647,16,3,sense and sensibility,Drama,author:Jane Austen,0.06675
+6663,16,4,sense and sensibility,Drama,based on a book,0.28
+6672,16,4,sense and sensibility,Drama,British,0.12575
+6704,16,2,sense and sensibility,Drama,heartwarming,0.00975
+6715,16,3,sense and sensibility,Drama,Hugh Grant,0.622
+6719,16,5,sense and sensibility,Drama,Jane Austen,0.04675
+6720,16,4,sense and sensibility,Drama,period film,0.1065
+6722,16,4,sense and sensibility,Drama,romance,0.09075
+6739,16,4,sense and sensibility,Drama,Alan Rickman,0.1925
+6743,16,5,sense and sensibility,Drama,British,0.05475
+6757,16,5,sense and sensibility,Drama,costume drama,0.0105
+6764,16,5,sense and sensibility,Drama,18th century,0.05525
+6777,16,4,sense and sensibility,Drama,Jane Austen,0.07975
+6778,16,4,sense and sensibility,Drama,romance,0.03
+6792,16,3,sense and sensibility,Drama,trials and tribulations,0.01
+6810,16,4,sense and sensibility,Drama,based on a book,0.02825
+6818,16,4.5,sense and sensibility,Drama,Jane Austen,0.04675
+6819,16,4,sense and sensibility,Drama,19th century,0.198
+6824,16,5,sense and sensibility,Drama,Alan Rickman,0.2285
+6832,16,4.5,sense and sensibility,Drama,Ang Lee,0.20925
+6843,16,4,sense and sensibility,Drama,British,0.04575
+6861,16,4,sense and sensibility,Drama,costume drama,0.04925
+6873,16,5,sense and sensibility,Drama,Emma Thompson,0.01425
+6880,16,3.5,sense and sensibility,Drama,historical,0.05825
+6883,16,5,sense and sensibility,Drama,Jane Austen,0.017
+6897,16,5,sense and sensibility,Drama,Period,0.029
+6910,16,4,sense and sensibility,Drama,British,0.24175
+6915,16,5,sense and sensibility,Drama,Shakespeare,0.02975
+6917,16,4,sense and sensibility,Drama,Emma Thompson,0.0135
+6920,16,2.5,sense and sensibility,Drama,Jane Austen,0.02475
+6921,16,4,sense and sensibility,Drama,Ang Lee,0.005
+6922,16,5,sense and sensibility,Drama,Alan Rickman,0.06
+6927,16,4,sense and sensibility,Drama,British,0.03525
+6936,16,3,sense and sensibility,Drama,Jane Austen,0.02975
+6940,16,5,sense and sensibility,Drama,English,0.01175
+6941,16,3,sense and sensibility,Drama,Romance,0.0425
+6947,16,4,sense and sensibility,Drama,Jane Austen,0.1615
+6952,16,4,sense and sensibility,Drama,BGAB LRC,0.025
+5,17,3,Four Rooms,comedy,chick flick,0.01875
+6,17,5,Four Rooms,comedy,Period,0.0335
+7,17,2,Four Rooms,comedy,Regency England,0.04175
+12,17,3,Four Rooms,comedy,based on a book,0.03075
+14,17,5,Four Rooms,comedy,British,0.1425
+15,17,3,Four Rooms,comedy,classic,0.02075
+19,17,4,Four Rooms,comedy,Jane Austen,0.319
+32,17,4,Four Rooms,comedy,adapted from:book,0.289
+34,17,5,Four Rooms,comedy,Alan Rickman,0.0215
+48,17,4,Four Rooms,comedy,Ang Lee,0.07
+54,17,2,Four Rooms,comedy,author:Jane Austen,0.041
+73,17,3,Four Rooms,comedy,British,0.01725
+85,17,4.5,Four Rooms,comedy,Emma Thompson,0.02975
+88,17,2.5,Four Rooms,comedy,Hugh Grant,0.0175
+104,17,3,Four Rooms,comedy,Kate Winslet,0.05
+113,17,5,Four Rooms,comedy,Alan Rickman,0.03675
+114,17,5,Four Rooms,comedy,British,0.12925
+122,17,5,Four Rooms,comedy,chick flick,0.027
+126,17,3,Four Rooms,comedy,Hugh Grant,0.0905
+131,17,3.5,Four Rooms,comedy,Kate Winslet,0.0765
+142,17,4,Four Rooms,comedy,British,0.04275
+148,17,5,Four Rooms,comedy,Jane Austen,0.022
+156,17,4,Four Rooms,comedy,Jane Austen,0.014
+158,17,4,Four Rooms,comedy,Alan Rickman,0.02325
+159,17,5,Four Rooms,comedy,Emma Thompson,0.026
+199,17,4,Four Rooms,comedy,Hugh Grant,0.029
+200,17,4,Four Rooms,comedy,Kate Winslet,0.01275
+208,17,5,Four Rooms,comedy,chick flick,0.03025
+228,17,5,Four Rooms,comedy,Jane Austen,0.02525
+239,17,4,Four Rooms,comedy,Period,0.062
+240,17,4,Four Rooms,comedy,romantic,0.00875
+245,17,5,Four Rooms,comedy,Jane Austen,0.13175
+249,17,4,Four Rooms,comedy,19th century,0.0245
+258,17,0.5,Four Rooms,comedy,Alan Rickman,0.02375
+264,17,3,Four Rooms,comedy,based on a book,0.04025
+269,17,4,Four Rooms,comedy,British,0.06075
+278,17,4.5,Four Rooms,comedy,chick flick,0.01875
+285,17,3.5,Four Rooms,comedy,costume drama,0.6385
+286,17,5,Four Rooms,comedy,Hugh Grant,0.10075
+295,17,4,Four Rooms,comedy,Jane Austen,0.16275
+307,17,5,Four Rooms,comedy,Kate Winslet,0.116
+310,17,5,Four Rooms,comedy,romance,0.08975
+324,17,3,Four Rooms,comedy,romantic,0.0685
+326,17,3,Four Rooms,comedy,Alan Rickman,0.0435
+330,17,5,Four Rooms,comedy,chick flick,0.25275
+333,17,3,Four Rooms,comedy,classic,0.1295
+338,17,5,Four Rooms,comedy,Hugh Grant,0.174
+360,17,4,Four Rooms,comedy,Jane Austen,0.1175
+365,17,4,Four Rooms,comedy,Kate Winslet,0.005
+368,17,1,Four Rooms,comedy,Period,0.0205
+387,17,4.5,Four Rooms,comedy,Ang Lee,0.05725
+389,17,4,Four Rooms,comedy,Jane Austen,0.0435
+620,17,4,Four Rooms,comedy,Great Adaptations,0.03125
+624,17,3,Four Rooms,comedy,Great Screenplays,0.07025
+24,18,5,Money Train,comedy,19th century,0.01525
+54,18,3,Money Train,comedy,adapted from:book,0.12525
+69,18,3,Money Train,comedy,Ang Lee,0.62925
+123,18,4,Money Train,comedy,British,0.214
+148,18,1,Money Train,comedy,costume drama,0.03775
+156,18,3,Money Train,comedy,Jane Austen,0.0365
+182,18,4.5,Money Train,comedy,Alan Rickman,0.324
+278,18,3,Money Train,comedy,19th century,0.304
+298,18,3,Money Train,comedy,Alan Rickman,0.11775
+377,18,2,Money Train,comedy,based on a book,0.0625
+389,18,2,Money Train,comedy,British,0.31525
+413,18,2.5,Money Train,comedy,costume drama,0.04275
+415,18,4,Money Train,comedy,Jane Austen,0.18775
+451,18,2.5,Money Train,comedy,Period,0.06225
+469,18,5,Money Train,comedy,Regency England,0.00875
+1184,19,1,Powder,Action,romantic,0.014
+1185,19,3.5,Powder,Action,19th century,0.07075
+1190,19,2,Powder,Action,based on a book,0.02525
+1196,19,3,Powder,Action,chick flick,0.007
+1200,19,3,Powder,Action,costume drama,0.0945
+1206,19,3.5,Powder,Action,Great Screenplays,0.0205
+1208,19,2,Powder,Action,heartwarming,0.021
+1215,19,1,Powder,Action,historical,0.02125
+1230,19,3,Powder,Action,literature,0.01525
+1237,19,4,Powder,Action,period piece,0.01875
+1244,19,4,Powder,Action,romantic,0.013
+1248,19,4,Powder,Action,Jane Austen,0.01075
+1252,19,3.5,Powder,Action,based on a book,0.00175
+1254,19,2,Powder,Action,Jane Austen,0.39375
+1255,19,3.5,Powder,Action,Emma Thompson,0.02475
+1260,19,4,Powder,Action,Kate Winslet,0.0055
+1280,19,3,Powder,Action,true love story,0.13475
+1292,19,4,Powder,Action,Jane Austen,0.016
+1310,19,2,Powder,Action,Jane Austen,0.0305
+1311,19,3.5,Powder,Action,based on a book,0.0305
+1313,19,5,Powder,Action,British,0.46075
+1323,19,3,Powder,Action,Hugh Grant,0.0305
+1339,19,3.5,Powder,Action,Jane Austen,0.0185
+1341,19,3.5,Powder,Action,romantic,0.102
+1374,19,2,Powder,Action,Shakespeare,0.01875
+1376,19,4,Powder,Action,Emma Thompson,0.08625
+1380,19,3,Powder,Action,Hugh Grant,0.08425
+1387,19,0.5,Powder,Action,Alan Rickman,0.08825
+1405,19,3,Powder,Action,Emma Thompson,0.083
+1406,19,0.5,Powder,Action,Hugh Grant,0.0225
+1411,19,2,Powder,Action,Sven's to see list,0.0485
+1419,19,3.5,Powder,Action,british,0.19175
+1421,19,2,Powder,Action,seen 2012,0.04125
+1423,19,3,Powder,Action,hulu,0.03475
+1433,19,2.5,Powder,Action,based on a book,0.01775
+1442,19,4,Powder,Action,classic literature,0.05875
+1450,19,2,Powder,Action,fast,0.03775
+1452,19,3.5,Powder,Action,romantic,0.00725
+1453,19,4,Powder,Action,chick flick,0.00925
+1455,19,4.5,Powder,Action,hugh grant,0.04675
+1458,19,1.5,Powder,Action,romance,0.01175
+1465,19,1.5,Powder,Action,shakespeare,0.0135
+1468,19,0.5,Powder,Action,adapted from:book,0.181
+1472,19,3,Powder,Action,based on a book,0.01325
+1474,19,3,Powder,Action,romance,0.0405
+1481,19,2,Powder,Action,romantic,0.016
+1493,19,2.5,Powder,Action,Shakespeare,0.06175
+1498,19,3,Powder,Action,boring,0.0815
+1507,19,1,Powder,Action,nothing happens,0.0195
+1514,19,2,Powder,Action,CLV,0.0615
+1515,19,3,Powder,Action,British,0.08525
+1516,19,1.5,Powder,Action,available DVD,0.08825
+1523,19,1.5,Powder,Action,historical,0.12575
+1531,19,5,Powder,Action,literature,0.15175
+1537,19,5,Powder,Action,Netflix Finland,0.0885
+1540,19,5,Powder,Action,Bibliothek,0.109
+1545,19,3,Powder,Action,Quentin Tarantino,0.02525
+1571,19,1.5,Powder,Action,multiple storylines,0.0065
+1573,19,2.5,Powder,Action,Antonio Banderas,0.042
+1579,19,4,Powder,Action,Bruce Willis,0.158
+1587,19,2.5,Powder,Action,fast paced,0.03375
+1588,19,2.5,Powder,Action,multiple storylines,0.037
+1593,19,2,Powder,Action,Quentin Tarantino,0.00675
+1595,19,2,Powder,Action,Robert Rodriguez,0.06075
+1600,19,2,Powder,Action,Tarantino,0.00475
+1604,19,2,Powder,Action,Tim Roth,0.005
+1609,19,3,Powder,Action,multiple storylines,0.15275
+1616,19,0.5,Powder,Action,Quentin Tarantino,0.02375
+1629,19,4,Powder,Action,Robert Rodriguez,0.034
+1631,19,3,Powder,Action,Tim Roth,0.01825
+1635,19,2,Powder,Action,Tarantino,0.059
+1636,19,3,Powder,Action,Bruce Willis,0.26825
+1638,19,3,Powder,Action,dark comedy,0.06875
+1643,19,2,Powder,Action,multiple storylines,0.04925
+1644,19,4,Powder,Action,Quentin Tarantino,0.06
+1645,19,1,Powder,Action,Tim Roth,0.0295
+1649,19,3,Powder,Action,multiple storylines,0.1175
+1658,19,4,Powder,Action,Quentin Tarantino,0.1545
+1661,19,2,Powder,Action,Alexandre Rockwell,0.099
+1668,19,4,Powder,Action,Allison Anders,0.2195
+1671,19,4,Powder,Action,Rodriguez,0.0455
+1678,19,1.5,Powder,Action,Tarantino,0.05125
+1692,19,3.5,Powder,Action,Tarantino,0.00425
+1723,19,1,Powder,Action,Antonio Banderas,0.01975
+1726,19,3.5,Powder,Action,Madonna,0.0075
+1730,19,2,Powder,Action,multiple storylines,0.04575
+1731,19,3.5,Powder,Action,Quentin Tarantino,0.0205
+1736,19,1.5,Powder,Action,Nudity (Topless),0.16
+1741,19,2,Powder,Action,Nudity (Topless),0.0405
+1748,19,0.5,Powder,Action,Quentin Tarantino,0.01925
+1755,19,0.5,Powder,Action,Robert Rodriguez,0.0705
+1763,19,2,Powder,Action,witch,0.1185
+1764,19,5,Powder,Action,Comedy,0.013
+1777,19,4,Powder,Action,dark comedy,0.016
+1789,19,2.5,Powder,Action,Jennifer Beals,0.007
+1792,19,3,Powder,Action,multiple storylines,0.012
+1806,19,4.5,Powder,Action,Quentin Tarantino,0.00475
+1808,19,5,Powder,Action,Tarantino,0.01975
+1813,19,1.5,Powder,Action,Tim Roth,0.0085
+1815,19,3.5,Powder,Action,witches,0.0085
+1828,19,2,Powder,Action,fast paced,0.00775
+1829,19,4,Powder,Action,multiple short stories in one,0.02375
+1833,19,3,Powder,Action,Rodriguez,0.02725
+1834,19,3.5,Powder,Action,Antonio Banderas,0.03075
+1839,19,2,Powder,Action,Bruce Willis,0.04325
+1844,19,3,Powder,Action,hotel,0.029
+1845,19,1,Powder,Action,Quentin Tarantino,0.0295
+1849,19,2,Powder,Action,Robert Rodriguez,0.234
+1854,19,2.5,Powder,Action,Tim Roth,0.19325
+1855,19,3,Powder,Action,4,0.0585
+1858,19,3,Powder,Action,multiple storylines,0.04125
+1868,19,2,Powder,Action,Quentin Tarantino,0.328
+1876,19,2,Powder,Action,Antonio Banderas,0.95275
+1881,19,3,Powder,Action,Quentin Tarantino,0.03475
+1888,19,3,Powder,Action,Tim Roth,0.00725
+1892,19,3.5,Powder,Action,Antonio Banderas,0.03775
+1904,19,1,Powder,Action,dark comedy,0.0035
+1922,19,2,Powder,Action,hotel,0.0265
+1928,19,3,Powder,Action,Madonna,0.01975
+1931,19,5,Powder,Action,Quentin Tarantino,0.05475
+1942,19,3,Powder,Action,Salma Hayek,0.0465
+1947,19,3,Powder,Action,Tim Roth,0.038
+1959,19,3.5,Powder,Action,own,0.01125
+1972,19,2,Powder,Action,Tarantino,0.054
+1975,19,1,Powder,Action,hotel,0.12675
+1984,19,2,Powder,Action,multiple storylines,0.2775
+2004,19,4.5,Powder,Action,nudity (topless),0.20425
+2006,19,3,Powder,Action,dark comedy,0.22125
+2011,19,5,Powder,Action,Quentin Tarantino,0.0245
+2024,19,3,Powder,Action,Tim Roth,0.05675
+2034,19,0.5,Powder,Action,Quentin Tarantino,0.023
+2038,19,5,Powder,Action,Robert Rodriguez,0.065
+2051,19,3.5,Powder,Action,multiple storylines,0.25025
+2054,19,3.5,Powder,Action,Tim Roth,0.12025
+2066,19,3,Powder,Action,comedy,0.03975
+2070,19,1,Powder,Action,hotel,0.0265
+2071,19,4.5,Powder,Action,multiple storylines,0.126
+2083,19,2,Powder,Action,Tarantino,0.16075
+2084,19,1,Powder,Action,Tumey's VHS,0.03525
+2099,19,3,Powder,Action,childhood fav,0.0505
+2100,19,3,Powder,Action,Jim Carrey,0.011
+2107,19,4,Powder,Action,Simon Callow,0.07275
+2113,19,1,Powder,Action,Steve Oedekerk,0.087
+2117,19,1,Powder,Action,comedy,0.1375
+2121,19,3,Powder,Action,Jim Carrey,0.06275
+2130,19,3,Powder,Action,private detective,0.02025
+2138,19,3,Powder,Action,detective,0.07375
+6611,20,4,Leaving Las Vegas,Action,detective,0.027
+6621,20,2,Leaving Las Vegas,Action,Jim Carrey,0.082
+6636,20,3,Leaving Las Vegas,Action,Gross-out,0.09425
+6643,20,3,Leaving Las Vegas,Action,spit,0.1265
+6711,20,3,Leaving Las Vegas,Action,detective,0.38275
+6722,20,2,Leaving Las Vegas,Action,Rhino action :D,0.006
+6739,20,2,Leaving Las Vegas,Action,Jim Carrey,0.11
+6743,20,3.5,Leaving Las Vegas,Action,Steve Oedekerk,0.1185
+6784,20,3,Leaving Las Vegas,Action,detective,0.28725
+6803,20,3,Leaving Las Vegas,Action,comedy,0.191
+6804,20,2,Leaving Las Vegas,Action,Africa,0.2375
+6879,20,2,Leaving Las Vegas,Action,Jim Carrey,0.037
+6929,20,3,Leaving Las Vegas,Action,Jim Carrey,0.1595
+6978,20,2,Leaving Las Vegas,Action,detective,0.19775
+7036,20,3,Leaving Las Vegas,Action,Jim Carrey,0.012
+7117,20,4,Leaving Las Vegas,Action,Jim Carrey,0.0855
+2378,179,2,Mad Love,Romance,,0.04575
+2518,179,1,Mad Love,Romance,,0.05125
+2576,179,2,Mad Love,Romance,,0.0285
+2657,179,3,Mad Love,Romance,,0.03375
+2732,179,1,Mad Love,Romance,,0.09825
+2992,179,2,Mad Love,Romance,,0.06425
+3058,179,3,Mad Love,Romance,,0.02375
+3192,179,3,Mad Love,Romance,,0.084
+3207,179,3,Mad Love,Romance,,0.03775
+3259,179,2,Mad Love,Romance,,0.0225
+3318,179,3,Mad Love,Romance,,0.0295
+3550,179,4,Mad Love,Romance,,0.022
+3673,179,3,Mad Love,Romance,,0.10675
