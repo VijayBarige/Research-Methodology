@@ -21,4 +21,8 @@ This document contains information about my project on recommender systems for m
 -movie rating commented.ipynb -->> It contains the commented code of the discussed project.
 -mrating.csv -->> It is a csv dataset file containing all the data that is being worked on with in the project.
  ```
+## Installation and Implementation
+We can implement this project on Jupyter online notebook. 
+Open this ![link](https://jupyter.org/try)
+Follow the path Jupyter online notebook --> Try jupyter lab --> Upload files
 
