@@ -13,5 +13,9 @@ Movies have been a primary source of entertainment for everyone, most of the peo
   2. 
 
 ## About this doocument
- - one
+This document contains information about my project on recommender systems for movie suggestions. Understanding and implementation of the project. Visual Representation of results and comparision between algorithms.
+
+## Repository Structure
+```cpp
+ 
 
