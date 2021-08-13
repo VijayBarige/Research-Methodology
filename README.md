@@ -11,6 +11,8 @@ Movies have been a primary source of entertainment for everyone, most of the peo
 ## Table of contents
   1. [About this Document](#About-this-document)
   2. [Repository Structure](#Repository-Structure)
+  3. [Installation and Implementation](#Installation-and-Implementation)
+  4. [Libraries imported](#Libraries-imported)
 
 ## About this doocument
 This document contains information about my project on recommender systems for movie suggestions. Understanding and implementation of the project. Visual Representation of results and comparision between algorithms.
@@ -27,3 +29,17 @@ Open this [link](https://jupyter.org/try) and follow the below specified path to
 
 Jupyter online notebook --> Try jupyter lab --> Upload files --> Run files
 
+## Libraries imported
+```cpp
+import pandas as pd
+import matplotlib.pyplot as plt
+import numpy as np
+from sklearn.preprocessing import LabelEncoder
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import accuracy_score
+from sklearn.metrics import classification_report
+from sklearn.metrics import confusion_matrix
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn.tree import DecisionTreeClassifier
+```
