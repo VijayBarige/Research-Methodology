@@ -22,8 +22,8 @@ This document contains information about my project on recommender systems for m
 -mrating.csv -->> It is a csv dataset file containing all the data that is being worked on with in the project.
  ```
 ## Installation and Implementation
-We can implement this project on Jupyter online notebook. 
-Open this [link](https://jupyter.org/try)
+We can implement this project on Jupyter online notebook which is available in any browser on the internet.
+Open this [link](https://jupyter.org/try) and follow the below specified path to get implement the project.
 
-Follow the path Jupyter online notebook --> Try jupyter lab --> Upload files --> Run files
+Jupyter online notebook --> Try jupyter lab --> Upload files --> Run files
 
