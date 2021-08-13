@@ -10,14 +10,15 @@ Movies have been a primary source of entertainment for everyone, most of the peo
 
 ## Table of contents
   1. [About this Document](#About-this-document)
-  2. 
+  2. [Repository Structure](#Repository-Structure)
 
 ## About this doocument
 This document contains information about my project on recommender systems for movie suggestions. Understanding and implementation of the project. Visual Representation of results and comparision between algorithms.
 
 ## Repository Structure
 ```cpp
-- Readme 
-- 
- 
+-README.md -->> The file you are seeing is called Readme file, it contains all the basic information about the project code, implwmwntation, results and explanation.
+-movie rating commented.ipynb -->> It contains the commented code of the discussed project.
+-mrating.csv -->> It is a csv dataset file containing all the data that is being worked on with in the project.
+ ```
 
