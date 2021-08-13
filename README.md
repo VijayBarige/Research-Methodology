@@ -47,3 +47,11 @@ from sklearn.tree import DecisionTreeClassifier
 ```
 ## Database
 
+Datab is taken from kaggle.com and merged together to form a meaningful dataset as the algorithms used are supervised algorithms, they need the data to be structured and complete to perform well. The data is in the form of a .csv file (comma separated values). They are loaded into the model and displayed by implementing the following piece of code.
+```python
+df=pd.read_csv('mrating.csv')
+df
+```
+![database](C:\Users\vijay\OneDrive\Pictures\Images\Database.png)
+
+
