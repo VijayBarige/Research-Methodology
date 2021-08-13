@@ -23,6 +23,7 @@ This document contains information about my project on recommender systems for m
  ```
 ## Installation and Implementation
 We can implement this project on Jupyter online notebook. 
-Open this ![link](https://jupyter.org/try)
+Open this [link](https://jupyter.org/try)
+
 Follow the path Jupyter online notebook --> Try jupyter lab --> Upload files
 
