@@ -52,6 +52,11 @@ Datab is taken from kaggle.com and merged together to form a meaningful dataset 
 df=pd.read_csv('mrating.csv')
 df
 ```
-![Dataset](Research-Methodology/Images/Database.png)
+The dataset contains following fields of data.
+![Dataset](Images/Database.png)
+
+## Data cleaning
+The data we get from internet is incomplete, it is neccessary to clean the data by filling out incomplete values
+
 
 
