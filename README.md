@@ -52,6 +52,6 @@ Datab is taken from kaggle.com and merged together to form a meaningful dataset 
 df=pd.read_csv('mrating.csv')
 df
 ```
-![database](C:\Users\vijay\OneDrive\Pictures\Images\Database.png)
+![](Pictures\Images\Database.png)
 
 
