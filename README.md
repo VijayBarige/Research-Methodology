@@ -6,7 +6,7 @@
 Movies have been a primary source of entertainment for everyone, most of the people go to the theatres regularly or binge watch them from their personal computers. People spend considerble amount of time searching for a good movie to watch. It is difficult to choose one movie from hundreds of options. But there is huge amount of data in the form of reviews, comments, blogs etc., which help people to choose from. This project is based on recommender systems using machine learning algorithms mainly Multinomial Logistic regression, K Nearest Neighbours and Decision Tree Classifier. With the help of this project  users can search their desired genre movies and pick one with highest rating available. We have a dataset cantaining ratings, genres and titles of different movies, applying the said aalgorithms on this data gives the prediction of best movies in the given genre.
 
 **For further detailed information about this project's repository, refer to the following table.**
-**Feel free to reach out to me if you have any suggestions or additions you want to add to the project.**![twittwer](https://img.shields.io/twitter/follow/VijayBarige?style=social) 
+**Feel free to reach out to me if you have any suggestions or additions you want to add to the project.** ![twittwer](https://img.shields.io/twitter/follow/VijayBarige?style=social) 
 
 ## Table of contents
   1. [About this Document](#About-this-document)
@@ -30,7 +30,9 @@ Open this [link](https://jupyter.org/try) and follow the below specified path to
 Jupyter online notebook --> Try jupyter lab --> Upload files --> Run files
 
 ## Libraries imported
-```cpp
+
+These libraries are used to downlaod neccessary tools and packages that are needed for this project.
+```python
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
@@ -43,3 +45,5 @@ from sklearn.metrics import confusion_matrix
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.tree import DecisionTreeClassifier
 ```
+## Database
+
