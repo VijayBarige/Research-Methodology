@@ -142,7 +142,10 @@ output: (0, 13)
 ```
 - Here **0** is the genre of the movie which is labelled value for **Action** genre.
 - And **13** is the label value of the movie **Powder**
-- 
+- The trained models are then used to predict the movies similar to that movie.
+- A list of movies are given as a suggestion based on the input movie.
+<img src="Images/logistic_reg2.png">
+
 
 
 
