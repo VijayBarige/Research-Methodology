@@ -114,6 +114,7 @@ y_pred1=knn.predict(np.array(X_Test).reshape(-1,1))  #predicts the labels of the
 score2=accuracy_score(Y_Test,y_pred1)
 ```
 To view the code in detail goto the file by clicking [here](https://github.com/VijayBarige/Research-Methodology/blob/main/movierating%20commented.ipynb)
+
 **Decision Tree classifier**
 ```python
 from sklearn.tree import DecisionTreeClassifier
