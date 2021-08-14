@@ -82,14 +82,22 @@ To do this we use **"dict"** function of python, Dict function is able to store 
 
 ## Splitting into Training and Testing Data
 
-Now at this point, the data is all set and made ready for splitting into training data and testing data. Training data size is set at 0.25% of the whole dataset, which is considered to be the default training dataset size.
+Now at this point, the data is all set and made ready for splitting into training data and testing data. Testing data size is set at 0.25% of the whole dataset, which is considered to be the default training dataset size. Random state generates new samples everytime we run the code.
 ```python
 from sklearn.model_selection import train_test_split
 import numpy as np
 X_Train, X_Test, Y_Train, Y_Test = train_test_split(X, y, test_size = 0.25, random_state = 0)
 ```
 ## Importing algorithm libraries
-
+ The first algorithm to implement is multinomial logistic regression. It is similar to linear regression.
+ ````python
+ logreg = LogisticRegression(C=1e5, solver='lbfgs', multi_class='multinomial') #uses solver ibfg algorithm, class as multinomial algorithm.
+X_train=np.array(X_Train).reshape(-1,1) #reshapes the size of the array without changing contents of it.
+y_train=np.array(Y_Train).reshape(-1,1) #reshapes the size of the array without changing contents of it.
+# Create an instance of Logistic Regression Classifier and fit the data.
+logreg.fit(X_train, y_train) #fits the data perfectly for prediction.
+```
+To view the code in detail goto the file by clicking [here](main/movierating%20commented.ipynb)
 
 
 
