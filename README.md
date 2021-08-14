@@ -14,7 +14,7 @@ Movies have been a primary source of entertainment for everyone, most of the peo
   3. [Installation and Implementation](#Installation-and-Implementation)
   4. [Libraries imported](#Libraries-imported)
   5. [Database](#Database)
-  6. [Data cleaning](#Data cleaning)
+  6. [Data cleaning](#Data-cleaning)
   7. 
 
 ## About this doocument
