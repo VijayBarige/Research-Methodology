@@ -18,7 +18,8 @@ Movies have been a primary source of entertainment for everyone, most of the peo
   7. [Splitting into Training and Testing Data](#Splitting-into-Training-and-Testing-Data)
   8. [Importing algorithm libraries](#Importing-algorithm-libraries)
   9. [Working](#Working)
-  10. 
+  10. [Visualizing Results](#Visualizing-Results)
+  11. 
 
 
 ## About this doocument
@@ -146,7 +147,11 @@ output: (0, 13)
 - A list of movies are given as a suggestion based on the input movie.
 <img src="Images/logistic_Reg2.png">
 
+## Visualising Results
 
+- This proceddure is performed for all the three algorithms, logistic regression, Knn and Decision Tree classifiers.
+- We get three different accuracies for each algorithm, they are similar to eachother with sligth difference.
+<img src="Images/knn.png" height=300>   <img src="Images/Decision Tree.png" height=300>
 
 
 
