@@ -151,7 +151,7 @@ output: (0, 13)
 
 - This proceddure is performed for all the three algorithms, logistic regression, Knn and Decision Tree classifiers.
 - We get three different accuracies for each algorithm, they are similar to eachother with sligth difference.
-<img src="Images/Knn.png" height=150>   <img src="Images/Decision%20tree.png" height=100>
+<img src="Images/Knn.png" height=150>   <img src="Images/Decision%20tree.png" height=150>
 
 
 
