@@ -61,8 +61,11 @@ The dataset contains following fields of data.
 The data we get from internet is incomplete, it is neccessary to clean the data by removing noise like empty cells and filling with meaningful values.
 I used a label encoder to convert charatcers\strings into numerical form by assigning a unique label to each unique string. Label encoding is neccessary as machine learining algorithms cannot understand characters or strings but numbers/numericals.
 ![label encoder](Images/Label%20encoder.png)
-Assigned lables for title and genre column of the dataset.
-![Title labels](
+
+**Assigned lables for title and genre column of the dataset.**
+
+![Genre labels](Images/genres_genres_labels.png)
+![Title Labels](Images/title_title_Labels.png)
 
 
 
