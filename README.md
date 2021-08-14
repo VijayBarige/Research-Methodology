@@ -13,6 +13,9 @@ Movies have been a primary source of entertainment for everyone, most of the peo
   2. [Repository Structure](#Repository-Structure)
   3. [Installation and Implementation](#Installation-and-Implementation)
   4. [Libraries imported](#Libraries-imported)
+  5. [Database](#Database)
+  6. [Data cleaning](#Data cleaning)
+  7. 
 
 ## About this doocument
 This document contains information about my project on recommender systems for movie suggestions. Understanding and implementation of the project. Visual Representation of results and comparision between algorithms.
