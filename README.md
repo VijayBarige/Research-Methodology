@@ -67,7 +67,7 @@ I used label encoder to convert charatcers\strings into numerical form by assign
 
 **Assigned lables for title and genre column of the dataset.**
 
- <img src="Images/genres_genres_labels.png" height=100>
+![Genre labels](Images/genres_genres_labels.png)
 ![Title Labels](Images/title_title_Labels.png)
 
 Genome score column of the dataset represent the rating of each movie. Based on the genome score, the movies are assigned to one of the categories of __poor, average__ and __good__ and it is labelled as outcome column.
