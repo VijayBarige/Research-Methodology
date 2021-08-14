@@ -15,7 +15,11 @@ Movies have been a primary source of entertainment for everyone, most of the peo
   4. [Libraries imported](#Libraries-imported)
   5. [Database](#Database)
   6. [Data cleaning and Preparing](#Data-cleaning-and-Preparing)
-  7. 
+  7. [Splitting into Training and Testing Data](#Splitting-into-Training-and-Testing-Data)
+  8. [Importing algorithm libraries](#Importing-algorithm-libraries)
+  8.1 [Multinomial Regression algorithm](#Multinomial-Regression-algorithm)
+  8.2 [k-Nearest Neighbours](#k-Nearest-Neighbours)
+  8.3 [Decision Tree classifier](#Decision-Tree-classifier)
 
 ## About this doocument
 This document contains information about my project on recommender systems for movie suggestions. Understanding and implementation of the project. Visual Representation of results and comparision between algorithms.
@@ -91,7 +95,7 @@ X_Train, X_Test, Y_Train, Y_Test = train_test_split(X, y, test_size = 0.25, rand
 ## Importing algorithm libraries
  The first algorithm to implement is multinomial logistic regression. It is similar to linear regression.
 
-**Multinomial Regression algorithm**
+# **Multinomial Regression algorithm**
 ```python
  logreg = LogisticRegression(C=1e5, solver='lbfgs', multi_class='multinomial') #uses solver ibfg algorithm, class as multinomial algorithm.
 X_train=np.array(X_Train).reshape(-1,1) #reshapes the size of the array without changing contents of it.
@@ -101,7 +105,7 @@ logreg.fit(X_train, y_train) #fits the data perfectly for prediction.
 ```
 To view the code in detail goto the file by clicking [here](https://github.com/VijayBarige/Research-Methodology/blob/main/movierating%20commented.ipynb)
 
-**k-Nearest Neighbours**
+# **k-Nearest Neighbours**
 For Knn the number of neighbours must be set carefully otherwise the algorithm might not work as expected.
 ```python
 from sklearn.neighbors import KNeighborsClassifier
@@ -110,7 +114,7 @@ knn.fit(X_train,y_train)  #fits the data perfectly for prediction.
 y_pred1=knn.predict(np.array(X_Test).reshape(-1,1))  #predicts the labels of the vairables in datasets based on the training datasets.
 score2=accuracy_score(Y_Test,y_pred1)
 ```
-**Decision Tree classifier**
+# **Decision Tree classifier**
 ```pyhton
 from sklearn.tree import DecisionTreeClassifier
 tree=DecisionTreeClassifier()
