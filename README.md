@@ -62,13 +62,17 @@ The dataset contains following fields of data.
 
 ## Data cleaning
 The data we get from internet is incomplete, it is neccessary to clean the data by removing noise like empty cells and filling with meaningful values.
-I used a label encoder to convert charatcers\strings into numerical form by assigning a unique label to each unique string. Label encoding is neccessary as machine learining algorithms cannot understand characters or strings but numbers/numericals.
+I used label encoder to convert charatcers\strings into numerical form by assigning a unique label to each unique string. Label encoding is neccessary as machine learining algorithms cannot understand characters or strings but numbers/numericals.
 ![label encoder](Images/Label%20encoder.png)
 
 **Assigned lables for title and genre column of the dataset.**
 
 ![Genre labels](Images/genres_genres_labels.png)
 ![Title Labels](Images/title_title_Labels.png)
+
+Genome score column of the dataset represent the rating of each movie. Based on the genome score, the movies are assigned to one of the categories of __poor, average__ and __good__ and it is labelled as outcome column.
+
+![outcomes](Images/outcome.png)
 
 
 
