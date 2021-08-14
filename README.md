@@ -80,5 +80,16 @@ To do this we use **"dict"** function of python, Dict function is able to store 
 
 <img src="Images/dictionary.png" height=300>   <img src="Images/dictionary2.png" height=300>
 
+## Splitting into Training and Testing Data
+
+Now at this point, the data is all set and made ready for splitting into training data and testing data. Training data size is set at 0.25% of the whole dataset, which is considered to be the default training dataset size.
+```python
+from sklearn.model_selection import train_test_split
+import numpy as np
+X_Train, X_Test, Y_Train, Y_Test = train_test_split(X, y, test_size = 0.25, random_state = 0)
+```
+## Importing algorithm libraries
+
+
 
 
