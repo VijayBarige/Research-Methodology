@@ -1,4 +1,4 @@
-# **Movie rating by using machine learning algorithms**
+## **Movie rating by using machine learning algorithms**
 ![social](https://img.shields.io/github/followers/VijayBarige?style=social) ![twitter](https://img.shields.io/twitter/follow/VijayBarige?style=social) 
 
 
@@ -125,6 +125,8 @@ score3=accuracy_score(Y_Test,y_pred2)
 print(score3) #Prints the Accuracy of the algorithm.
 ```
 To view the code in detail goto the file by clicking [here](https://github.com/VijayBarige/Research-Methodology/blob/main/movierating%20commented.ipynb)
+
+
 
 
 
