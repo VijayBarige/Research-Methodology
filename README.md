@@ -5,8 +5,13 @@
 ## Description
 Movies have been a primary source of entertainment for everyone, most of the people go to the theatres regularly or binge watch them from their personal computers. People spend considerble amount of time searching for a good movie to watch. It is difficult to choose one movie from hundreds of options. But there is huge amount of data in the form of reviews, comments, blogs etc., which help people to choose from. This project is based on recommender systems using machine learning algorithms mainly Multinomial Logistic regression, K Nearest Neighbours and Decision Tree Classifier. With the help of this project  users can search their desired genre movies and pick one with highest rating available. We have a dataset cantaining ratings, genres and titles of different movies, applying the said aalgorithms on this data gives the prediction of best movies in the given genre.
 
-**For further detailed information about this project's repository, refer to the following table.**
-**Feel free to reach out to me if you have any suggestions or additions you want to add to the project.** ![twittwer](https://img.shields.io/twitter/follow/VijayBarige?style=social) 
+## Support
+
+**Feel free to reach out to me if you have any suggestions or additions you want to add to the project.**
+
+![twittwer](https://img.shields.io/twitter/follow/VijayBarige?style=social) ![social](https://img.shields.io/github/followers/VijayBarige?style=social)
+
+**For further detailed information about this project and its repository, refer to the following table.**
 
 ## Table of contents
   1. [About this Document](#About-this-document)
@@ -19,11 +24,14 @@ Movies have been a primary source of entertainment for everyone, most of the peo
   8. [Importing algorithm libraries](#Importing-algorithm-libraries)
   9. [Working](#Working)
   10. [Visualizing Results](#Visualizing-Results)
-  11. 
+  11. [License](#License)
+  12. [Future Ideas](#Future-Ideas)
 
 
-## About this doocument
-This document contains information about my project on recommender systems for movie suggestions. Understanding and implementation of the project. Visual Representation of results and comparision between algorithms.
+## About this document
+- This document contains information about my project on recommender systems for movie suggestions. 
+- Understanding and implementation of the project.
+- Visual Representation of results and comparision between algorithms.
 
 ## Repository Structure
 ```cpp
@@ -36,6 +44,11 @@ We can implement this project on Jupyter online notebook which is available in a
 Open this [link](https://jupyter.org/try) and follow the below specified path to get implement the project.
 
 Jupyter online notebook --> Try jupyter lab --> Upload files --> Run files
+
+- Running files is very easy in Jupyter notebook online.
+- Place every needed file like the **.ipynb** file and **.csv** file.
+- Press the **Start** button and run each cell at-a-time or one cell after the other.
+- After every execution we need to restart the kernel by clicking **restart** button. 
 
 ## Libraries imported
 
@@ -155,6 +168,23 @@ output: (0, 13)
 
 - Graph comparision of accuracies of all three algorithms.
 <img src="Images/accuracies%20graph.png" height=300>
+
+## License
+This project requires no license anddd is open for all.
+
+## Future Ideas 
+- I want to build this project into a more interacrtive website, so that it can be made available to online users.
+- Other algorithms of machine learning can also be tried to see if they can give higher accuracy.
+
+## Project Status
+ - The project is prepared to serve the basic puprose for recommending movies.
+ - It is designed based on the available dataset and needs redesign at certain parts od code for adapting to anyother structured dataset.
+ - It needs to be further developed to be used as a mobile application.
+
+
+
+
+
 
 
 
