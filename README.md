@@ -114,7 +114,7 @@ y_pred1=knn.predict(np.array(X_Test).reshape(-1,1))  #predicts the labels of the
 score2=accuracy_score(Y_Test,y_pred1)
 ```
 **Decision Tree classifier**
-```pyhton
+```python
 from sklearn.tree import DecisionTreeClassifier
 tree=DecisionTreeClassifier()
 tree.fit(X_train,y_train)  #fits the data perfectly for prediction.
