@@ -3,9 +3,27 @@
 
 
 ## Description
-Movies have been a primary source of entertainment for everyone, most of the people go to the theatres regularly or binge watch them from their personal computers. People spend considerble amount of time searching for a good movie to watch. It is difficult to choose one movie from hundreds of options. But there is huge amount of data in the form of reviews, comments, blogs etc., which help people to choose from. This project is based on recommender systems using machine learning algorithms mainly Multinomial Logistic regression, K Nearest Neighbours and Decision Tree Classifier. With the help of this project  users can search their desired genre movies and pick one with highest rating available. We have a dataset cantaining ratings, genres and titles of different movies, applying the said aalgorithms on this data gives the prediction of best movies in the given genre.
+Movies have been a primary source of entertainment for everyone, most of the people go to the theatres regularly or binge watch them from their personal computers. People spend considerable amount of time searching for a good movie to watch. It is difficult to choose one movie from hundreds of available options. But there is huge amount of data in the form of reviews, comments, blogs etc., which help people to choose from. This project is based on recommender systems using machine learning algorithms mainly Multinomial Logistic regression, K Nearest Neighbours and Decision Tree Classifier. With the help of this project  users can search their desired genre movies and pick one with highest rating available. We have a dataset cantaining ratings, genres and titles of different movies, applying the said aalgorithms on this data gives the prediction of best movies in the given genre. If the user enters a movie, the algorithm predicts best rated movies and gives them as output.
 
-## Support/ Author
+**For further detailed information about this project and its repository, refer to the following table.**
+
+## Table of contents
+  1. [Author and Support](#Author-and-Support)
+  2. [About this Document](#About-this-document)
+  3. [Repository Structure](#Repository-Structure)
+  4. [Installation and Implementation](#Installation-and-Implementation)
+  5. [Libraries imported](#Libraries-imported)
+  6. [Database](#Database)
+  7. [Data cleaning and Preparing](#Data-cleaning-and-Preparing)
+  8. [Splitting into Training and Testing Data](#Splitting-into-Training-and-Testing-Data)
+  9. [Importing algorithm libraries](#Importing-algorithm-libraries)
+  10. [Working](#Working)
+  11. [Visualizing Results](#Visualizing-Results)
+  12. [License](#License)
+  13. [Future Ideas](#Future-Ideas)
+  14. [Project Status](#Project-Status)
+  
+ ## Support/ Author
 
 **Feel free to reach out to me if you have any suggestions or additions you want to add to the project.**
 
@@ -13,22 +31,6 @@ Movies have been a primary source of entertainment for everyone, most of the peo
 
 ![twittwer](https://img.shields.io/twitter/follow/VijayBarige?style=social) ![social](https://img.shields.io/github/followers/VijayBarige?style=social)
 
-**For further detailed information about this project and its repository, refer to the following table.**
-
-## Table of contents
-  1. [About this Document](#About-this-document)
-  2. [Repository Structure](#Repository-Structure)
-  3. [Installation and Implementation](#Installation-and-Implementation)
-  4. [Libraries imported](#Libraries-imported)
-  5. [Database](#Database)
-  6. [Data cleaning and Preparing](#Data-cleaning-and-Preparing)
-  7. [Splitting into Training and Testing Data](#Splitting-into-Training-and-Testing-Data)
-  8. [Importing algorithm libraries](#Importing-algorithm-libraries)
-  9. [Working](#Working)
-  10. [Visualizing Results](#Visualizing-Results)
-  11. [License](#License)
-  12. [Future Ideas](#Future-Ideas)
-  13. [Project Status](#Project-Status)
 
 
 ## About this document
