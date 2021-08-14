@@ -26,6 +26,7 @@ Movies have been a primary source of entertainment for everyone, most of the peo
   10. [Visualizing Results](#Visualizing-Results)
   11. [License](#License)
   12. [Future Ideas](#Future-Ideas)
+  13. [Project Status](#Project-Status)
 
 
 ## About this document
