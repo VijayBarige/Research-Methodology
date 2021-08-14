@@ -153,6 +153,9 @@ output: (0, 13)
 - We get three different accuracies for each algorithm, they are similar to eachother with sligth difference.
 <img src="Images/Knn.png" height=150>   <img src="Images/Decision%20tree.png" height=150>
 
+- Graph comparision of accuracies of all three algorithms.
+<img src="Images/accuracies%20graph.png" height=300>
+
 
 
 
