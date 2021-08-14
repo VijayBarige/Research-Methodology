@@ -17,7 +17,8 @@ Movies have been a primary source of entertainment for everyone, most of the peo
   6. [Data cleaning and Preparing](#Data-cleaning-and-Preparing)
   7. [Splitting into Training and Testing Data](#Splitting-into-Training-and-Testing-Data)
   8. [Importing algorithm libraries](#Importing-algorithm-libraries)
-  9. 
+  9. [Working](#Working)
+  10. 
 
 
 ## About this doocument
@@ -128,6 +129,16 @@ score3=accuracy_score(Y_Test,y_pred2)
 print(score3) #Prints the Accuracy of the algorithm.
 ```
 To view the code in detail goto the file by clicking [here](https://github.com/VijayBarige/Research-Methodology/blob/main/movierating%20commented.ipynb)
+
+## Working
+ - A movie is given as input manually.
+ - Label encoders map the movie with a label/numerical value along with genre of the given movie.
+
+```python
+inp=fun3('Powder')
+mcode=fun4('Powder')
+inp,mcode
+```
 
 
 
