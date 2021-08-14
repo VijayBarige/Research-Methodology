@@ -91,7 +91,7 @@ X_Train, X_Test, Y_Train, Y_Test = train_test_split(X, y, test_size = 0.25, rand
 ## Importing algorithm libraries
  The first algorithm to implement is multinomial logistic regression. It is similar to linear regression.
 
-````python
+```python
  logreg = LogisticRegression(C=1e5, solver='lbfgs', multi_class='multinomial') #uses solver ibfg algorithm, class as multinomial algorithm.
 X_train=np.array(X_Train).reshape(-1,1) #reshapes the size of the array without changing contents of it.
 y_train=np.array(Y_Train).reshape(-1,1) #reshapes the size of the array without changing contents of it.
