@@ -17,9 +17,9 @@ Movies have been a primary source of entertainment for everyone, most of the peo
   6. [Data cleaning and Preparing](#Data-cleaning-and-Preparing)
   7. [Splitting into Training and Testing Data](#Splitting-into-Training-and-Testing-Data)
   8. [Importing algorithm libraries](#Importing-algorithm-libraries)
-  8.1 [Multinomial Regression algorithm](#Multinomial-Regression-algorithm)
-  8.2 [k-Nearest Neighbours](#k-Nearest-Neighbours)
-  8.3 [Decision Tree classifier](#Decision-Tree-classifier)
+  - 8.1 [Multinomial Regression algorithm](#Multinomial-Regression-algorithm)
+  - 8.2 [k-Nearest Neighbours](#k-Nearest-Neighbours)
+  - 8.3 [Decision Tree classifier](#Decision-Tree-classifier)
 
 ## About this doocument
 This document contains information about my project on recommender systems for movie suggestions. Understanding and implementation of the project. Visual Representation of results and comparision between algorithms.
