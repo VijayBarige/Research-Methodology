@@ -97,6 +97,7 @@ y_train=np.array(Y_Train).reshape(-1,1) #reshapes the size of the array without 
 # Create an instance of Logistic Regression Classifier and fit the data.
 logreg.fit(X_train, y_train) #fits the data perfectly for prediction.
 ```
+
 To view the code in detail goto the file by clicking [here](main/movierating%20commented.ipynb)
 
 
