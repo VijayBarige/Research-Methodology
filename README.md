@@ -138,6 +138,7 @@ To view the code in detail goto the file by clicking [here](https://github.com/V
 inp=fun3('Powder')
 mcode=fun4('Powder')
 inp,mcode
+output: (0, 13)
 ```
 
 
