@@ -54,7 +54,7 @@ Jupyter online notebook --> Try jupyter lab --> Upload files --> Run files
 - Running files is very easy in Jupyter notebook online.
 - Place every needed file like the **.ipynb** file and **.csv** file.
 - Press the **Start** button and run each cell at-a-time or one cell after the other.
-- After every execution we need to restart the kernel by clicking **restart** button. 
+- After every execution we need to restart the kernel by clicking **restart** button.
 
 ## Libraries imported
 
@@ -176,7 +176,7 @@ output: (0, 13)
 <img src="Images/accuracies%20graph.png" height=300>
 
 ## License
-This project requires no license anddd is open for all.
+This project requires no license and is open for all.
 
 ## Future Ideas 
 - I want to build this project into a more interacrtive website, so that it can be made available to online users.
