@@ -40,7 +40,8 @@ Movies have been a primary source of entertainment for everyone, most of the peo
 
 ## Repository Structure
 ```cpp
--README.md -->> The file you are seeing is called Readme file, it contains all the basic information about the project code, implwmwntation, results and explanation.
+-Images -->> The screenshots of code snippets, output visualization 
+-README.md -->> The file you are seeing is called Readme file, it contains all the basic information about the project code, implentation, results and explanation.
 -movie rating commented.ipynb -->> It contains the commented code of the discussed project.
 -mrating.csv -->> It is a csv dataset file containing all the data that is being worked on with in the project.
  ```
