@@ -112,8 +112,8 @@ knn=KNeighborsClassifier(n_neighbors=9)
 knn.fit(X_train,y_train)  #fits the data perfectly for prediction.
 y_pred1=knn.predict(np.array(X_Test).reshape(-1,1))  #predicts the labels of the vairables in datasets based on the training datasets.
 score2=accuracy_score(Y_Test,y_pred1)
-To view the code in detail goto the file by clicking [here](https://github.com/VijayBarige/Research-Methodology/blob/main/movierating%20commented.ipynb)
 ```
+To view the code in detail goto the file by clicking [here](https://github.com/VijayBarige/Research-Methodology/blob/main/movierating%20commented.ipynb)
 **Decision Tree classifier**
 ```python
 from sklearn.tree import DecisionTreeClassifier
