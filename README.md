@@ -14,7 +14,7 @@ Movies have been a primary source of entertainment for everyone, most of the peo
   3. [Installation and Implementation](#Installation-and-Implementation)
   4. [Libraries imported](#Libraries-imported)
   5. [Database](#Database)
-  6. [Data cleaning](#Data-cleaning)
+  6. [Data cleaning and Preparing](#Data-cleaning and Preparing)
   7. 
 
 ## About this doocument
@@ -60,7 +60,7 @@ The dataset contains following fields of data.
 <img src="Images/Database.png" width= 600>
 
 
-## Data cleaning
+## Data cleaning and Preparing
 The data we get from internet is incomplete, it is neccessary to clean the data by removing noise like empty cells and filling with meaningful values.
 I used label encoder to convert charatcers\strings into numerical form by assigning a unique label to each unique string. Label encoding is neccessary as machine learining algorithms cannot understand characters or strings but numbers/numericals.
 ![label encoder](Images/Label%20encoder.png)
