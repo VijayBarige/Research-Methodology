@@ -145,7 +145,7 @@ output: (0, 13)
 - And **13** is the label value of the movie **Powder**
 - The trained models are then used to predict the movies similar to that movie.
 - A list of movies are given as a suggestion based on the input movie.
-<img src="Images/logistic_Reg2.png">
+<img src="Images/logistic_Reg2.png" height=200>
 
 ## Visualising Results
 
