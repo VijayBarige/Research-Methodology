@@ -77,7 +77,8 @@ Genome score column of the dataset represent the rating of each movie. Based on 
 **Connecting genre lables to movie titles**
 By connecting genre labels to each movie, algorithm is able to differentiate each movie with respective to its genre.
 To do this we use **"dict"** function of python, Dict function is able to store a pair of values called Key/values, by using key value we can get access of value pair.
-<img src="Images/dictionary.png">
+
+<img src="Images/dictionary.png" height=10>
 
 
 
