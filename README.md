@@ -67,7 +67,7 @@ I used label encoder to convert charatcers\strings into numerical form by assign
 
 **Assigned lables for title and genre column of the dataset.**
 
-![Genre labels](Images/genres_genres_labels.png)
+ <img src="Images/genres_genres_labels.png" height=100>
 ![Title Labels](Images/title_title_Labels.png)
 
 Genome score column of the dataset represent the rating of each movie. Based on the genome score, the movies are assigned to one of the categories of __poor, average__ and __good__ and it is labelled as outcome column.
@@ -78,7 +78,7 @@ Genome score column of the dataset represent the rating of each movie. Based on 
 By connecting genre and title labels to each movie, algorithm is able to differentiate each movie with respective to its genre and title.
 To do this we use **"dict"** function of python, Dict function is able to store a pair of values called Key/values, by using key value we can get access of value pair.
 
-<img src="Images/dictionary.png" height=400>   <img src="Images/dictionary2.png" height=300>
+<img src="Images/dictionary.png" height=300>   <img src="Images/dictionary2.png" height=300>
 
 
 
