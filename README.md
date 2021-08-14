@@ -131,7 +131,7 @@ print(score3) #Prints the Accuracy of the algorithm.
 To view the code in detail goto the file by clicking [here](https://github.com/VijayBarige/Research-Methodology/blob/main/movierating%20commented.ipynb)
 
 ## Working
- - A movie is given as input manually.
+ - A movie is given as input manually, here the input given is **Powder**.
  - Label encoders map the movie with a label/numerical value along with genre of the given movie.
 
 ```python
@@ -140,6 +140,9 @@ mcode=fun4('Powder')
 inp,mcode
 output: (0, 13)
 ```
+- Here **0** is the genre of the movie which is labelled value for **Action** genre.
+- And **13** is the label value of the movie **Powder**
+- 
 
 
 
