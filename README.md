@@ -40,8 +40,8 @@ Movies have been a primary source of entertainment for everyone, most of the peo
 
 ## Repository Structure
 ```cpp
--Images -->> The screenshots of code snippets, output visualization 
--README.md -->> The file you are seeing is called Readme file, it contains all the basic information about the project code, implentation, results and explanation.
+
+-README.md -->> The file you are seeing is called Readme file, it contains all the basic information about the project code, implwmwntation, results and explanation.
 -movie rating commented.ipynb -->> It contains the commented code of the discussed project.
 -mrating.csv -->> It is a csv dataset file containing all the data that is being worked on with in the project.
  ```
@@ -54,7 +54,7 @@ Jupyter online notebook --> Try jupyter lab --> Upload files --> Run files
 - Running files is very easy in Jupyter notebook online.
 - Place every needed file like the **.ipynb** file and **.csv** file.
 - Press the **Start** button and run each cell at-a-time or one cell after the other.
-- After every execution we need to restart the kernel by clicking **restart** button.
+- After every execution we need to restart the kernel by clicking **restart** button. 
 
 ## Libraries imported
 
@@ -77,7 +77,7 @@ from sklearn.tree import DecisionTreeClassifier
 - Data is taken from kaggle.com and merged together to form a meaningful dataset as the algorithms used are supervised algorithms, they need the data to be structured and complete to perform well.
 - The data is in the form of a .csv file (comma separated values). 
 - They are loaded into the model and displayed by implementing the following piece of code.
-- The link for dataset from kaggle is given [here](https://www.kaggle.com/grouplens/movielens-20m-dataset?select=movie.csv)
+- The link for dataset from kaggle is given [here.](https://www.kaggle.com/grouplens/movielens-20m-dataset?select=movie.csv)
 ```python
 df=pd.read_csv('mrating.csv')
 df
@@ -161,12 +161,12 @@ inp,mcode
 output: (0, 13)
 ```
 - Here **0** is the genre of the movie which is labelled value for **Action** genre.
-- And **13** is the label value of the movie **Powder**
+- And **13** is the label value of the movie **Powder**.
 - The trained models are then used to predict the movies similar to that movie.
 - A list of movies are given as a suggestion based on the input movie.
 <img src="Images/logistic_Reg2.png" height=400>
 
-## Visualising Results
+## Visualizing Results
 
 - This proceddure is performed for all the three algorithms, logistic regression, Knn and Decision Tree classifiers.
 - We get three different accuracies for each algorithm, they are similar to eachother with sligth difference.
