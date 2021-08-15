@@ -23,7 +23,7 @@ Movies have been a primary source of entertainment for everyone, most of the peo
   13. [Future Ideas](#Future-Ideas)
   14. [Project Status](#Project-Status)
   
- ## Support/ Author
+ ## Author and Support
 
 **Feel free to reach out to me if you have any suggestions or additions you want to add to the project.**
 
