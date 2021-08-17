@@ -13,7 +13,7 @@ Movies have been a primary source of entertainment for everyone, most of the peo
   3. [Repository Structure](#Repository-Structure)
   4. [Installation and Implementation](#Installation-and-Implementation)
   5. [Libraries imported](#Libraries-imported)
-  6. [Database](#Database)
+  6. [Datasets](#Datasets)
   7. [Data cleaning and Preparing](#Data-cleaning-and-Preparing)
   8. [Splitting into Training and Testing Data](#Splitting-into-Training-and-Testing-Data)
   9. [Importing algorithm libraries](#Importing-algorithm-libraries)
@@ -40,7 +40,7 @@ Movies have been a primary source of entertainment for everyone, most of the peo
 
 ## Repository Structure
 ```cpp
-
+-Images ->> Images and screenshots of code and output visuals are taken and stored in this folder
 -README.md -->> The file you are seeing is called Readme file, it contains all the basic information about the project code, implwmwntation, results and explanation.
 -movie rating commented.ipynb -->> It contains the commented code of the discussed project.
 -mrating.csv -->> It is a csv dataset file containing all the data that is being worked on with in the project.
@@ -72,7 +72,7 @@ from sklearn.metrics import confusion_matrix
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.tree import DecisionTreeClassifier
 ```
-## Database
+## Datasets
 
 - Data is taken from kaggle.com and merged together to form a meaningful dataset as the algorithms used are supervised algorithms, they need the data to be structured and complete to perform well.
 - The data is in the form of a .csv file (comma separated values). 
