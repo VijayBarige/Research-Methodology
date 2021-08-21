@@ -169,7 +169,7 @@ output: (0, 13)
 ## Visualizing Results
 
 - This proceddure is performed for all the three algorithms, logistic regression, Knn and Decision Tree classifiers.
-- We get three different accuracies for each algorithm, they are similar to eachother with sligth difference.
+- We get three different accuracies for each algorithm, they are similar to eachother with sligth differences.
 <img src="Images/Knn.png" height=150>   <img src="Images/Decision%20tree.png" height=150>
 
 - Graph comparision of accuracies of all three algorithms.
@@ -179,7 +179,7 @@ output: (0, 13)
 This project requires no license and is open for all.
 
 ## Future Ideas 
-- I want to build this project into a more interacrtive website, so that it can be made available to online users.
+- I want to build this project into a more interactive website, so that it can be made available to online users.
 - Other algorithms of machine learning can also be tried to see if they can give higher accuracy.
 
 ## Project Status
