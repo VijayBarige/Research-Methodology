@@ -183,7 +183,7 @@ This project requires no license and is open for all.
 - Other algorithms of machine learning can also be tried to see if they can give higher accuracy.
 
 ## Project Status
- - The project is prepared to serve the basic puprose for recommending movies.
+ - The project is prepared to serve the basic puprose of recommending movies.
  - It is designed based on the available dataset and needs redesign at certain parts od code for adapting to anyother structured dataset.
  - It needs to be further developed to be used as a mobile application.
 
